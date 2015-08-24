@@ -1,0 +1,137 @@
+000 (554293.000.000) 08/11 09:09:17 Job submitted from host: <18.12.1.74:48322>
+...
+001 (554293.000.000) 08/11 09:09:51 Job executing on host: <18.12.8.239:42847>
+...
+006 (554293.000.000) 08/11 09:10:00 Image size of job updated: 228468
+	92  -  MemoryUsage of job (MB)
+	93296  -  ResidentSetSize of job (KB)
+...
+006 (554293.000.000) 08/11 09:11:15 Image size of job updated: 238320
+	92  -  MemoryUsage of job (MB)
+	93296  -  ResidentSetSize of job (KB)
+...
+005 (554293.000.000) 08/11 09:11:15 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:43, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:43, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	585937  -  Run Bytes Sent By Job
+	62717  -  Run Bytes Received By Job
+	585937  -  Total Bytes Sent By Job
+	62717  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      658      658          
+	   Memory (MB)          :       92       92          
+...
+000 (558008.000.000) 08/13 13:34:23 Job submitted from host: <18.12.1.74:48322>
+...
+001 (558008.000.000) 08/13 13:59:51 Job executing on host: <18.12.9.47:41168>
+...
+006 (558008.000.000) 08/13 14:00:00 Image size of job updated: 229972
+	96  -  MemoryUsage of job (MB)
+	98200  -  ResidentSetSize of job (KB)
+...
+006 (558008.000.000) 08/13 14:01:19 Image size of job updated: 230104
+	96  -  MemoryUsage of job (MB)
+	98200  -  ResidentSetSize of job (KB)
+...
+005 (558008.000.000) 08/13 14:01:19 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:39, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:39, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586132  -  Run Bytes Sent By Job
+	62720  -  Run Bytes Received By Job
+	586132  -  Total Bytes Sent By Job
+	62720  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :       96       96          
+...
+000 (566299.000.000) 08/20 20:26:22 Job submitted from host: <18.12.1.74:48322>
+...
+007 (566299.000.000) 08/20 20:26:44 Shadow exception!
+	Error from slot10@t2bat0149.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+001 (566299.000.000) 08/20 20:26:50 Job executing on host: <18.12.8.61:42993>
+...
+006 (566299.000.000) 08/20 20:26:59 Image size of job updated: 228612
+	92  -  MemoryUsage of job (MB)
+	93392  -  ResidentSetSize of job (KB)
+...
+006 (566299.000.000) 08/20 20:28:19 Image size of job updated: 230104
+	92  -  MemoryUsage of job (MB)
+	93392  -  ResidentSetSize of job (KB)
+...
+022 (566299.000.000) 08/20 20:28:20 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot6@t2bat0061.cmsaf.mit.edu <18.12.8.61:42993>
+...
+023 (566299.000.000) 08/20 20:28:20 Job reconnected to slot6@t2bat0061.cmsaf.mit.edu
+    startd address: <18.12.8.61:42993>
+    starter address: <18.12.8.61:49271>
+...
+022 (566299.000.000) 08/20 20:28:20 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot6@t2bat0061.cmsaf.mit.edu <18.12.8.61:42993>
+...
+023 (566299.000.000) 08/20 20:28:21 Job reconnected to slot6@t2bat0061.cmsaf.mit.edu
+    startd address: <18.12.8.61:42993>
+    starter address: <18.12.8.61:49271>
+...
+022 (566299.000.000) 08/20 20:28:22 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot6@t2bat0061.cmsaf.mit.edu <18.12.8.61:42993>
+...
+023 (566299.000.000) 08/20 20:28:22 Job reconnected to slot6@t2bat0061.cmsaf.mit.edu
+    startd address: <18.12.8.61:42993>
+    starter address: <18.12.8.61:49271>
+...
+022 (566299.000.000) 08/20 20:28:23 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot6@t2bat0061.cmsaf.mit.edu <18.12.8.61:42993>
+...
+023 (566299.000.000) 08/20 20:28:23 Job reconnected to slot6@t2bat0061.cmsaf.mit.edu
+    startd address: <18.12.8.61:42993>
+    starter address: <18.12.8.61:49271>
+...
+007 (566299.000.000) 08/20 20:28:24 Shadow exception!
+	Error from slot6@t2bat0061.cmsaf.mit.edu: Repeated attempts to transfer output failed for unknown reasons
+	0  -  Run Bytes Sent By Job
+	62732  -  Run Bytes Received By Job
+...
+001 (566299.000.000) 08/20 20:29:15 Job executing on host: <18.12.9.59:41825>
+...
+006 (566299.000.000) 08/20 20:34:24 Image size of job updated: 250000
+	104  -  MemoryUsage of job (MB)
+	106420  -  ResidentSetSize of job (KB)
+...
+022 (566299.000.000) 08/20 20:37:15 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot32@t2bat0315.cmsaf.mit.edu <18.12.9.59:41825>
+...
+023 (566299.000.000) 08/20 20:37:16 Job reconnected to slot32@t2bat0315.cmsaf.mit.edu
+    startd address: <18.12.9.59:41825>
+    starter address: <18.12.9.59:49053>
+...
+005 (566299.000.000) 08/20 20:43:34 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:34, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:34, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586187  -  Run Bytes Sent By Job
+	62732  -  Run Bytes Received By Job
+	586187  -  Total Bytes Sent By Job
+	125464  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      750      750          
+	   Memory (MB)          :      104      104          
+...

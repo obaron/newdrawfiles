@@ -1,0 +1,104 @@
+000 (556059.000.000) 08/12 11:33:40 Job submitted from host: <18.12.1.74:48322>
+...
+001 (556059.000.000) 08/12 11:50:34 Job executing on host: <18.12.8.154:41168>
+...
+006 (556059.000.000) 08/12 11:50:43 Image size of job updated: 2
+	3  -  MemoryUsage of job (MB)
+	2360  -  ResidentSetSize of job (KB)
+...
+006 (556059.000.000) 08/12 11:52:50 Image size of job updated: 230308
+	3  -  MemoryUsage of job (MB)
+	2360  -  ResidentSetSize of job (KB)
+...
+005 (556059.000.000) 08/12 11:52:50 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:59, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:59, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586151  -  Run Bytes Sent By Job
+	62715  -  Run Bytes Received By Job
+	586151  -  Total Bytes Sent By Job
+	62715  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :        3        3          
+...
+000 (566428.000.000) 08/20 21:02:51 Job submitted from host: <18.12.1.74:48322>
+...
+007 (566428.000.000) 08/20 21:03:00 Shadow exception!
+	Error from slot12@hibat0034.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566428.000.000) 08/20 21:04:04 Shadow exception!
+	Error from slot30@t2bat0291.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566428.000.000) 08/20 21:04:13 Shadow exception!
+	Error from slot28@t2bat0334.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566428.000.000) 08/20 21:04:21 Shadow exception!
+	Error from slot21@t2bat0339.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566428.000.000) 08/20 21:04:23 Shadow exception!
+	Error from slot21@t2bat0339.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566428.000.000) 08/20 21:04:30 Shadow exception!
+	Error from slot21@t2bat0339.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566428.000.000) 08/20 21:05:22 Shadow exception!
+	Error from slot32@t2bat0287.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566428.000.000) 08/20 21:05:24 Shadow exception!
+	Error from slot32@t2bat0287.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566428.000.000) 08/20 21:05:33 Shadow exception!
+	Error from slot32@t2bat0287.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566428.000.000) 08/20 21:05:40 Shadow exception!
+	Error from slot32@t2bat0287.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+001 (566428.000.000) 08/20 21:05:57 Job executing on host: <18.12.9.78:42044>
+...
+006 (566428.000.000) 08/20 21:06:06 Image size of job updated: 93728
+	3  -  MemoryUsage of job (MB)
+	2440  -  ResidentSetSize of job (KB)
+...
+006 (566428.000.000) 08/20 21:11:06 Image size of job updated: 230308
+	100  -  MemoryUsage of job (MB)
+	102280  -  ResidentSetSize of job (KB)
+...
+005 (566428.000.000) 08/20 21:17:29 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:53, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:53, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586117  -  Run Bytes Sent By Job
+	62731  -  Run Bytes Received By Job
+	586117  -  Total Bytes Sent By Job
+	62731  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :      100      100          
+...

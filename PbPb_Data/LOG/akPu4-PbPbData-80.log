@@ -1,0 +1,124 @@
+000 (556321.000.000) 08/12 14:10:45 Job submitted from host: <18.12.1.74:48322>
+...
+001 (556321.000.000) 08/12 14:20:25 Job executing on host: <18.12.9.33:40000>
+...
+006 (556321.000.000) 08/12 14:20:34 Image size of job updated: 2
+	3  -  MemoryUsage of job (MB)
+	2344  -  ResidentSetSize of job (KB)
+...
+006 (556321.000.000) 08/12 14:24:47 Image size of job updated: 229888
+	3  -  MemoryUsage of job (MB)
+	2344  -  ResidentSetSize of job (KB)
+...
+005 (556321.000.000) 08/12 14:24:47 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:30, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:30, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586383  -  Run Bytes Sent By Job
+	62715  -  Run Bytes Received By Job
+	586383  -  Total Bytes Sent By Job
+	62715  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :        3        3          
+...
+000 (557581.000.000) 08/13 11:57:20 Job submitted from host: <18.12.1.74:48322>
+...
+001 (557581.000.000) 08/13 12:08:47 Job executing on host: <18.12.6.31:42701>
+...
+006 (557581.000.000) 08/13 12:08:55 Image size of job updated: 146260
+	31  -  MemoryUsage of job (MB)
+	31692  -  ResidentSetSize of job (KB)
+...
+006 (557581.000.000) 08/13 12:09:44 Image size of job updated: 229892
+	31  -  MemoryUsage of job (MB)
+	31692  -  ResidentSetSize of job (KB)
+...
+005 (557581.000.000) 08/13 12:09:44 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:22, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:22, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	585837  -  Run Bytes Sent By Job
+	62715  -  Run Bytes Received By Job
+	585837  -  Total Bytes Sent By Job
+	62715  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :       31       31          
+...
+000 (558097.000.000) 08/13 14:31:03 Job submitted from host: <18.12.1.74:48322>
+...
+001 (558097.000.000) 08/13 14:39:17 Job executing on host: <18.12.9.50:43066>
+...
+006 (558097.000.000) 08/13 14:39:26 Image size of job updated: 2
+	3  -  MemoryUsage of job (MB)
+	2352  -  ResidentSetSize of job (KB)
+...
+006 (558097.000.000) 08/13 14:40:23 Image size of job updated: 229888
+	3  -  MemoryUsage of job (MB)
+	2352  -  ResidentSetSize of job (KB)
+...
+005 (558097.000.000) 08/13 14:40:23 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:24, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:24, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586107  -  Run Bytes Sent By Job
+	62714  -  Run Bytes Received By Job
+	586107  -  Total Bytes Sent By Job
+	62714  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :        3        3          
+...
+000 (565434.000.000) 08/20 12:35:51 Job submitted from host: <18.12.1.74:48322>
+...
+001 (565434.000.000) 08/20 12:37:50 Job executing on host: <18.12.9.28:40000>
+...
+006 (565434.000.000) 08/20 12:37:58 Image size of job updated: 2
+	3  -  MemoryUsage of job (MB)
+	2372  -  ResidentSetSize of job (KB)
+...
+006 (565434.000.000) 08/20 12:39:46 Image size of job updated: 229892
+	3  -  MemoryUsage of job (MB)
+	2372  -  ResidentSetSize of job (KB)
+...
+022 (565434.000.000) 08/20 12:39:56 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot25@t2bat0284.cmsaf.mit.edu <18.12.9.28:40000>
+...
+023 (565434.000.000) 08/20 12:39:56 Job reconnected to slot25@t2bat0284.cmsaf.mit.edu
+    startd address: <18.12.9.28:40000>
+    starter address: <18.12.9.28:45402>
+...
+022 (565434.000.000) 08/20 12:40:01 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot25@t2bat0284.cmsaf.mit.edu <18.12.9.28:40000>
+...
+023 (565434.000.000) 08/20 12:40:02 Job reconnected to slot25@t2bat0284.cmsaf.mit.edu
+    startd address: <18.12.9.28:40000>
+    starter address: <18.12.9.28:45402>
+...
+005 (565434.000.000) 08/20 12:48:45 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:31, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:31, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586295  -  Run Bytes Sent By Job
+	62731  -  Run Bytes Received By Job
+	586295  -  Total Bytes Sent By Job
+	62731  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :        3        3          
+...

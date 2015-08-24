@@ -1,0 +1,469 @@
+TFile**		PbPb_Data_histograms_FromForest_akPu3_anabin_20_eta_20.root	
+ TFile*		PbPb_Data_histograms_FromForest_akPu3_anabin_20_eta_20.root	
+  KEY: TH2F	hNpix_vs_Njets_noCut;1	
+  KEY: TH2F	hNpix_vs_HF_noCut;1	
+  KEY: TH2F	hZDC_vs_HF_noCut;1	
+  KEY: TH2F	hZDCplus_vs_HF_noCut;1	
+  KEY: TH2F	hZDCminus_vs_HF_noCut;1	
+  KEY: TH2F	hZDC_vs_HF_cent0to0p5_noCut;1	
+  KEY: TH2F	hZDCp_vs_HF_noCut;1	
+  KEY: TH2F	hZDCp_vs_HF_cent0to0p5_noCut;1	
+  KEY: TH2F	hZDCm_vs_HF_noCut;1	
+  KEY: TH2F	hZDCm_vs_HF_cent0to0p5_noCut;1	
+  KEY: TH2F	hNpixelTracks_vs_HF_noCut;1	
+  KEY: TH2F	hNTracks_vs_HF_noCut;1	
+  KEY: TH1F	hJetComb_Npix_noCut;1	
+  KEY: TH1F	hJetComb_vs_HF_noCut;1	
+  KEY: TH1F	hJet80_vs_HF_noCut;1	
+  KEY: TH1F	hJet65_vs_HF_noCut;1	
+  KEY: TH1F	hJet55_vs_HF_noCut;1	
+  KEY: TH1F	hCentrality_fromHFBound_noCut;1	
+  KEY: TH2F	hNpix_vs_Njets_SupernovaCut;1	
+  KEY: TH2F	hNpix_vs_HF_SupernovaCut;1	
+  KEY: TH2F	hZDC_vs_HF_SupernovaCut;1	
+  KEY: TH2F	hZDC_vs_HF_cent0to0p5_SupernovaCut;1	
+  KEY: TH2F	hZDCp_vs_HF_SupernovaCut;1	
+  KEY: TH2F	hZDCp_vs_HF_cent0to0p5_SupernovaCut;1	
+  KEY: TH2F	hZDCm_vs_HF_SupernovaCut;1	
+  KEY: TH2F	hZDCm_vs_HF_cent0to0p5_SupernovaCut;1	
+  KEY: TH2F	hNpixelTracks_vs_HF_SupernovaCut;1	
+  KEY: TH2F	hNTracks_vs_HF_SupernovaCut;1	
+  KEY: TH1F	hJetComb_Npix_SupernovaCut;1	
+  KEY: TH1F	hJetComb_vs_HF_SupernovaCut;1	
+  KEY: TH1F	hJet80_vs_HF_SupernovaCut;1	
+  KEY: TH1F	hJet65_vs_HF_SupernovaCut;1	
+  KEY: TH1F	hJet55_vs_HF_SupernovaCut;1	
+  KEY: TH1F	hCentrality_fromHFBound_SupernovaCut;1	
+  KEY: TH2F	hNpix_vs_Njets_PileUpCut;1	
+  KEY: TH2F	hNpix_vs_HF_PileUpCut;1	
+  KEY: TH2F	hZDC_vs_HF_PileUpCut;1	
+  KEY: TH2F	hZDC_vs_HF_cent0to0p5_PileUpCut;1	
+  KEY: TH2F	hZDCp_vs_HF_PileUpCut;1	
+  KEY: TH2F	hZDCp_vs_HF_cent0to0p5_PileUpCut;1	
+  KEY: TH2F	hZDCm_vs_HF_PileUpCut;1	
+  KEY: TH2F	hZDCm_vs_HF_cent0to0p5_PileUpCut;1	
+  KEY: TH2F	hNpixelTracks_vs_HF_PileUpCut;1	
+  KEY: TH2F	hNTracks_vs_HF_PileUpCut;1	
+  KEY: TH1F	hJetComb_Npix_PileUpCut;1	
+  KEY: TH1F	hJetComb_vs_HF_PileUpCut;1	
+  KEY: TH1F	hJet80_vs_HF_PileUpCut;1	
+  KEY: TH1F	hJet65_vs_HF_PileUpCut;1	
+  KEY: TH1F	hJet55_vs_HF_PileUpCut;1	
+  KEY: TH1F	hCentrality_fromHFBound_PileUpCut;1	
+  KEY: TH2F	hNpix_vs_Njets_ZDCLowCut;1	
+  KEY: TH2F	hNpix_vs_HF_ZDCLowCut;1	
+  KEY: TH2F	hZDC_vs_HF_ZDCLowCut;1	
+  KEY: TH2F	hZDC_vs_HF_cent0to0p5_ZDCLowCut;1	
+  KEY: TH2F	hZDCp_vs_HF_ZDCLowCut;1	
+  KEY: TH2F	hZDCp_vs_HF_cent0to0p5_ZDCLowCut;1	
+  KEY: TH2F	hZDCm_vs_HF_ZDCLowCut;1	
+  KEY: TH2F	hZDCm_vs_HF_cent0to0p5_ZDCLowCut;1	
+  KEY: TH2F	hNpixelTracks_vs_HF_ZDCLowCut;1	
+  KEY: TH2F	hNTracks_vs_HF_ZDCLowCut;1	
+  KEY: TH1F	hJetComb_Npix_ZDCLowCut;1	
+  KEY: TH1F	hJetComb_vs_HF_ZDCLowCut;1	
+  KEY: TH1F	hJet80_vs_HF_ZDCLowCut;1	
+  KEY: TH1F	hJet65_vs_HF_ZDCLowCut;1	
+  KEY: TH1F	hJet55_vs_HF_ZDCLowCut;1	
+  KEY: TH1F	hCentrality_fromHFBound_ZDCLowCut;1	
+  KEY: TH2F	hNpix_vs_Njets_AllCut;1	
+  KEY: TH2F	hNpix_vs_HF_AllCut;1	
+  KEY: TH2F	hZDC_vs_HF_AllCut;1	
+  KEY: TH2F	hZDC_vs_HF_cent0to0p5_AllCut;1	
+  KEY: TH2F	hZDCp_vs_HF_AllCut;1	
+  KEY: TH2F	hZDCp_vs_HF_cent0to0p5_AllCut;1	
+  KEY: TH2F	hZDCm_vs_HF_AllCut;1	
+  KEY: TH2F	hZDCm_vs_HF_cent0to0p5_AllCut;1	
+  KEY: TH2F	hNpixelTracks_vs_HF_AllCut;1	
+  KEY: TH2F	hNTracks_vs_HF_AllCut;1	
+  KEY: TH1F	hJetComb_Npix_AllCut;1	
+  KEY: TH1F	hJetComb_vs_HF_AllCut;1	
+  KEY: TH1F	hJet80_vs_HF_AllCut;1	
+  KEY: TH1F	hJet65_vs_HF_AllCut;1	
+  KEY: TH1F	hJet55_vs_HF_AllCut;1	
+  KEY: TH1F	hCentrality_fromHFBound_AllCut;1	
+  KEY: TH1F	hcentrality_cent0;1	
+  KEY: TH1F	hcentrality_Jet55_cent0;1	
+  KEY: TH1F	hcentrality_Jet55_Prescl_cent0;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_cent0;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_Prescl_cent0;1	
+  KEY: TH1F	hcentrality_Jet55or65or80_cent0;1	
+  KEY: TH1F	hcentrality_Jet65_cent0;1	
+  KEY: TH1F	hcentrality_Jet65_Prescl_cent0;1	
+  KEY: TH1F	hcentrality_Jet65not80_cent0;1	
+  KEY: TH1F	hcentrality_Jet80_cent0;1	
+  KEY: TH1F	hcentrality_cent1;1	
+  KEY: TH1F	hcentrality_Jet55_cent1;1	
+  KEY: TH1F	hcentrality_Jet55_Prescl_cent1;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_cent1;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_Prescl_cent1;1	
+  KEY: TH1F	hcentrality_Jet55or65or80_cent1;1	
+  KEY: TH1F	hcentrality_Jet65_cent1;1	
+  KEY: TH1F	hcentrality_Jet65_Prescl_cent1;1	
+  KEY: TH1F	hcentrality_Jet65not80_cent1;1	
+  KEY: TH1F	hcentrality_Jet80_cent1;1	
+  KEY: TH1F	hcentrality_cent2;1	
+  KEY: TH1F	hcentrality_Jet55_cent2;1	
+  KEY: TH1F	hcentrality_Jet55_Prescl_cent2;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_cent2;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_Prescl_cent2;1	
+  KEY: TH1F	hcentrality_Jet55or65or80_cent2;1	
+  KEY: TH1F	hcentrality_Jet65_cent2;1	
+  KEY: TH1F	hcentrality_Jet65_Prescl_cent2;1	
+  KEY: TH1F	hcentrality_Jet65not80_cent2;1	
+  KEY: TH1F	hcentrality_Jet80_cent2;1	
+  KEY: TH1F	hcentrality_cent3;1	
+  KEY: TH1F	hcentrality_Jet55_cent3;1	
+  KEY: TH1F	hcentrality_Jet55_Prescl_cent3;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_cent3;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_Prescl_cent3;1	
+  KEY: TH1F	hcentrality_Jet55or65or80_cent3;1	
+  KEY: TH1F	hcentrality_Jet65_cent3;1	
+  KEY: TH1F	hcentrality_Jet65_Prescl_cent3;1	
+  KEY: TH1F	hcentrality_Jet65not80_cent3;1	
+  KEY: TH1F	hcentrality_Jet80_cent3;1	
+  KEY: TH1F	hcentrality_cent4;1	
+  KEY: TH1F	hcentrality_Jet55_cent4;1	
+  KEY: TH1F	hcentrality_Jet55_Prescl_cent4;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_cent4;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_Prescl_cent4;1	
+  KEY: TH1F	hcentrality_Jet55or65or80_cent4;1	
+  KEY: TH1F	hcentrality_Jet65_cent4;1	
+  KEY: TH1F	hcentrality_Jet65_Prescl_cent4;1	
+  KEY: TH1F	hcentrality_Jet65not80_cent4;1	
+  KEY: TH1F	hcentrality_Jet80_cent4;1	
+  KEY: TH1F	hcentrality_cent5;1	
+  KEY: TH1F	hcentrality_Jet55_cent5;1	
+  KEY: TH1F	hcentrality_Jet55_Prescl_cent5;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_cent5;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_Prescl_cent5;1	
+  KEY: TH1F	hcentrality_Jet55or65or80_cent5;1	
+  KEY: TH1F	hcentrality_Jet65_cent5;1	
+  KEY: TH1F	hcentrality_Jet65_Prescl_cent5;1	
+  KEY: TH1F	hcentrality_Jet65not80_cent5;1	
+  KEY: TH1F	hcentrality_Jet80_cent5;1	
+  KEY: TH1F	hcentrality_cent6;1	
+  KEY: TH1F	hcentrality_Jet55_cent6;1	
+  KEY: TH1F	hcentrality_Jet55_Prescl_cent6;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_cent6;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_Prescl_cent6;1	
+  KEY: TH1F	hcentrality_Jet55or65or80_cent6;1	
+  KEY: TH1F	hcentrality_Jet65_cent6;1	
+  KEY: TH1F	hcentrality_Jet65_Prescl_cent6;1	
+  KEY: TH1F	hcentrality_Jet65not80_cent6;1	
+  KEY: TH1F	hcentrality_Jet80_cent6;1	
+  KEY: TH1F	hcentrality_cent7;1	
+  KEY: TH1F	hcentrality_Jet55_cent7;1	
+  KEY: TH1F	hcentrality_Jet55_Prescl_cent7;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_cent7;1	
+  KEY: TH1F	hcentrality_Jet55not65not80_Prescl_cent7;1	
+  KEY: TH1F	hcentrality_Jet55or65or80_cent7;1	
+  KEY: TH1F	hcentrality_Jet65_cent7;1	
+  KEY: TH1F	hcentrality_Jet65_Prescl_cent7;1	
+  KEY: TH1F	hcentrality_Jet65not80_cent7;1	
+  KEY: TH1F	hcentrality_Jet80_cent7;1	
+  KEY: TH1F	hpbpb_HLT80_R4_20_eta_20_cent0;1	Spectra from  Jet 80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLT65_R4_20_eta_20_cent0;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLT55_R4_20_eta_20_cent0;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLTComb_R4_20_eta_20_cent0;1	Trig Combined Spectra R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_raw_HLT80_R4_20_eta_20_cent0;1	Spectra from  Jet 80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_raw_HLT65_R4_20_eta_20_cent0;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_raw_HLT55_R4_20_eta_20_cent0;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_raw_HLTComb_R4_20_eta_20_cent0;1	Trig Combined Spectra R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_anaBin_HLT80_R4_20_eta_20_cent0;1	Spectra from  Jet 80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_anaBin_HLT65_R4_20_eta_20_cent0;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_anaBin_HLT55_R4_20_eta_20_cent0;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_anaBin_HLTComb_R4_20_eta_20_cent0;1	Trig Combined Spectra R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_JEC_HLT80_R4_20_eta_20_cent0;1	Spectra from  Jet 80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_JEC_HLT65_R4_20_eta_20_cent0;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_JEC_HLT55_R4_20_eta_20_cent0;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_JEC_HLTComb_R4_20_eta_20_cent0;1	Trig Combined Spectra R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Smear_HLT80_R4_20_eta_20_cent0;1	Spectra from  Jet 80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Smear_HLT65_R4_20_eta_20_cent0;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Smear_HLT55_R4_20_eta_20_cent0;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Smear_HLTComb_R4_20_eta_20_cent0;1	Trig Combined Spectra R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_etacent_R4_cent0;1	Eta distribution from Jet80 trigger R4  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_etacent_R4_cent0;1	Eta distribution from Jet65 && !Jet80 trigger R4  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_etacent_R4_cent0;1	Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R4  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_phicent_R4_cent0;1	Phi distribution from Jet80 trigger R4  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_phicent_R4_cent0;1	Phi distribution from Jet65 && !Jet80 trigger R4  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_phicent_R4_cent0;1	Phi distribution from Jet55 && !Jet65 && !Jet80 trigger R4  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_etaprecut_cent_R4_cent0;1	Eta precut distribution from Jet80 trigger R4  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_etaprecut_cent_R4_cent0;1	Eta precut distribution from Jet65 && !Jet80 trigger R4  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_etaprecut_cent_R4_cent0;1	Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_phiprecut_cent_R4_cent0;1	Phi precut distribution from Jet80 trigger R4  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_phiprecut_cent_R4_cent0;1	Phi precut distribution from Jet65 && !Jet80 trigger R4  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_phiprecut_cent_R4_cent0;1	Phi precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4  0 - 10 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_R4_cent0;1	Phi vs Eta distribution from Jet80 trigger R4  0 - 10 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_R4_cent0;1	Phi vs Eta distribution from Jet65 && !Jet80 trigger R4  0 - 10 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_R4_cent0;1	Phi vs Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R4  0 - 10 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_precut_R4_cent0;1	Phi vs Eta precut distribution from Jet80 trigger R4  0 - 10 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_precut_R4_cent0;1	Phi vs Eta precut distribution from Jet65 && !Jet80 trigger R4  0 - 10 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_precut_R4_cent0;1	Phi vs Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4  0 - 10 cent
+  KEY: TH1F	hpbpb_HLT80_R4_20_eta_20_cent1;1	Spectra from  Jet 80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLT65_R4_20_eta_20_cent1;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLT55_R4_20_eta_20_cent1;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLTComb_R4_20_eta_20_cent1;1	Trig Combined Spectra R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_raw_HLT80_R4_20_eta_20_cent1;1	Spectra from  Jet 80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_raw_HLT65_R4_20_eta_20_cent1;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_raw_HLT55_R4_20_eta_20_cent1;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_raw_HLTComb_R4_20_eta_20_cent1;1	Trig Combined Spectra R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_anaBin_HLT80_R4_20_eta_20_cent1;1	Spectra from  Jet 80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_anaBin_HLT65_R4_20_eta_20_cent1;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_anaBin_HLT55_R4_20_eta_20_cent1;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_anaBin_HLTComb_R4_20_eta_20_cent1;1	Trig Combined Spectra R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_JEC_HLT80_R4_20_eta_20_cent1;1	Spectra from  Jet 80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_JEC_HLT65_R4_20_eta_20_cent1;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_JEC_HLT55_R4_20_eta_20_cent1;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_JEC_HLTComb_R4_20_eta_20_cent1;1	Trig Combined Spectra R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Smear_HLT80_R4_20_eta_20_cent1;1	Spectra from  Jet 80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Smear_HLT65_R4_20_eta_20_cent1;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Smear_HLT55_R4_20_eta_20_cent1;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Smear_HLTComb_R4_20_eta_20_cent1;1	Trig Combined Spectra R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_etacent_R4_cent1;1	Eta distribution from Jet80 trigger R4 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_etacent_R4_cent1;1	Eta distribution from Jet65 && !Jet80 trigger R4 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_etacent_R4_cent1;1	Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R4 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_phicent_R4_cent1;1	Phi distribution from Jet80 trigger R4 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_phicent_R4_cent1;1	Phi distribution from Jet65 && !Jet80 trigger R4 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_phicent_R4_cent1;1	Phi distribution from Jet55 && !Jet65 && !Jet80 trigger R4 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_etaprecut_cent_R4_cent1;1	Eta precut distribution from Jet80 trigger R4 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_etaprecut_cent_R4_cent1;1	Eta precut distribution from Jet65 && !Jet80 trigger R4 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_etaprecut_cent_R4_cent1;1	Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_phiprecut_cent_R4_cent1;1	Phi precut distribution from Jet80 trigger R4 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_phiprecut_cent_R4_cent1;1	Phi precut distribution from Jet65 && !Jet80 trigger R4 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_phiprecut_cent_R4_cent1;1	Phi precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 10 - 20 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_R4_cent1;1	Phi vs Eta distribution from Jet80 trigger R4 10 - 20 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_R4_cent1;1	Phi vs Eta distribution from Jet65 && !Jet80 trigger R4 10 - 20 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_R4_cent1;1	Phi vs Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R4 10 - 20 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_precut_R4_cent1;1	Phi vs Eta precut distribution from Jet80 trigger R4 10 - 20 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_precut_R4_cent1;1	Phi vs Eta precut distribution from Jet65 && !Jet80 trigger R4 10 - 20 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_precut_R4_cent1;1	Phi vs Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 10 - 20 cent
+  KEY: TH1F	hpbpb_HLT80_R4_20_eta_20_cent2;1	Spectra from  Jet 80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLT65_R4_20_eta_20_cent2;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLT55_R4_20_eta_20_cent2;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLTComb_R4_20_eta_20_cent2;1	Trig Combined Spectra R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_raw_HLT80_R4_20_eta_20_cent2;1	Spectra from  Jet 80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_raw_HLT65_R4_20_eta_20_cent2;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_raw_HLT55_R4_20_eta_20_cent2;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_raw_HLTComb_R4_20_eta_20_cent2;1	Trig Combined Spectra R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_anaBin_HLT80_R4_20_eta_20_cent2;1	Spectra from  Jet 80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_anaBin_HLT65_R4_20_eta_20_cent2;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_anaBin_HLT55_R4_20_eta_20_cent2;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_anaBin_HLTComb_R4_20_eta_20_cent2;1	Trig Combined Spectra R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_JEC_HLT80_R4_20_eta_20_cent2;1	Spectra from  Jet 80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_JEC_HLT65_R4_20_eta_20_cent2;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_JEC_HLT55_R4_20_eta_20_cent2;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_JEC_HLTComb_R4_20_eta_20_cent2;1	Trig Combined Spectra R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Smear_HLT80_R4_20_eta_20_cent2;1	Spectra from  Jet 80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Smear_HLT65_R4_20_eta_20_cent2;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Smear_HLT55_R4_20_eta_20_cent2;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Smear_HLTComb_R4_20_eta_20_cent2;1	Trig Combined Spectra R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_etacent_R4_cent2;1	Eta distribution from Jet80 trigger R4 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_etacent_R4_cent2;1	Eta distribution from Jet65 && !Jet80 trigger R4 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_etacent_R4_cent2;1	Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R4 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_phicent_R4_cent2;1	Phi distribution from Jet80 trigger R4 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_phicent_R4_cent2;1	Phi distribution from Jet65 && !Jet80 trigger R4 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_phicent_R4_cent2;1	Phi distribution from Jet55 && !Jet65 && !Jet80 trigger R4 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_etaprecut_cent_R4_cent2;1	Eta precut distribution from Jet80 trigger R4 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_etaprecut_cent_R4_cent2;1	Eta precut distribution from Jet65 && !Jet80 trigger R4 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_etaprecut_cent_R4_cent2;1	Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_phiprecut_cent_R4_cent2;1	Phi precut distribution from Jet80 trigger R4 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_phiprecut_cent_R4_cent2;1	Phi precut distribution from Jet65 && !Jet80 trigger R4 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_phiprecut_cent_R4_cent2;1	Phi precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 20 - 60 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_R4_cent2;1	Phi vs Eta distribution from Jet80 trigger R4 20 - 60 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_R4_cent2;1	Phi vs Eta distribution from Jet65 && !Jet80 trigger R4 20 - 60 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_R4_cent2;1	Phi vs Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R4 20 - 60 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_precut_R4_cent2;1	Phi vs Eta precut distribution from Jet80 trigger R4 20 - 60 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_precut_R4_cent2;1	Phi vs Eta precut distribution from Jet65 && !Jet80 trigger R4 20 - 60 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_precut_R4_cent2;1	Phi vs Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 20 - 60 cent
+  KEY: TH1F	hpbpb_HLT80_R4_20_eta_20_cent3;1	Spectra from  Jet 80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLT65_R4_20_eta_20_cent3;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLT55_R4_20_eta_20_cent3;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLTComb_R4_20_eta_20_cent3;1	Trig Combined Spectra R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_raw_HLT80_R4_20_eta_20_cent3;1	Spectra from  Jet 80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_raw_HLT65_R4_20_eta_20_cent3;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_raw_HLT55_R4_20_eta_20_cent3;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_raw_HLTComb_R4_20_eta_20_cent3;1	Trig Combined Spectra R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_anaBin_HLT80_R4_20_eta_20_cent3;1	Spectra from  Jet 80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_anaBin_HLT65_R4_20_eta_20_cent3;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_anaBin_HLT55_R4_20_eta_20_cent3;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_anaBin_HLTComb_R4_20_eta_20_cent3;1	Trig Combined Spectra R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_JEC_HLT80_R4_20_eta_20_cent3;1	Spectra from  Jet 80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_JEC_HLT65_R4_20_eta_20_cent3;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_JEC_HLT55_R4_20_eta_20_cent3;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_JEC_HLTComb_R4_20_eta_20_cent3;1	Trig Combined Spectra R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Smear_HLT80_R4_20_eta_20_cent3;1	Spectra from  Jet 80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Smear_HLT65_R4_20_eta_20_cent3;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Smear_HLT55_R4_20_eta_20_cent3;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Smear_HLTComb_R4_20_eta_20_cent3;1	Trig Combined Spectra R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_etacent_R4_cent3;1	Eta distribution from Jet80 trigger R4 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_etacent_R4_cent3;1	Eta distribution from Jet65 && !Jet80 trigger R4 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_etacent_R4_cent3;1	Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R4 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_phicent_R4_cent3;1	Phi distribution from Jet80 trigger R4 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_phicent_R4_cent3;1	Phi distribution from Jet65 && !Jet80 trigger R4 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_phicent_R4_cent3;1	Phi distribution from Jet55 && !Jet65 && !Jet80 trigger R4 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_etaprecut_cent_R4_cent3;1	Eta precut distribution from Jet80 trigger R4 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_etaprecut_cent_R4_cent3;1	Eta precut distribution from Jet65 && !Jet80 trigger R4 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_etaprecut_cent_R4_cent3;1	Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_phiprecut_cent_R4_cent3;1	Phi precut distribution from Jet80 trigger R4 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_phiprecut_cent_R4_cent3;1	Phi precut distribution from Jet65 && !Jet80 trigger R4 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_phiprecut_cent_R4_cent3;1	Phi precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 60 - 100 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_R4_cent3;1	Phi vs Eta distribution from Jet80 trigger R4 60 - 100 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_R4_cent3;1	Phi vs Eta distribution from Jet65 && !Jet80 trigger R4 60 - 100 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_R4_cent3;1	Phi vs Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R4 60 - 100 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_precut_R4_cent3;1	Phi vs Eta precut distribution from Jet80 trigger R4 60 - 100 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_precut_R4_cent3;1	Phi vs Eta precut distribution from Jet65 && !Jet80 trigger R4 60 - 100 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_precut_R4_cent3;1	Phi vs Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 60 - 100 cent
+  KEY: TH1F	hpbpb_HLT80_R4_20_eta_20_cent4;1	Spectra from  Jet 80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLT65_R4_20_eta_20_cent4;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLT55_R4_20_eta_20_cent4;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLTComb_R4_20_eta_20_cent4;1	Trig Combined Spectra R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_raw_HLT80_R4_20_eta_20_cent4;1	Spectra from  Jet 80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_raw_HLT65_R4_20_eta_20_cent4;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_raw_HLT55_R4_20_eta_20_cent4;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_raw_HLTComb_R4_20_eta_20_cent4;1	Trig Combined Spectra R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_anaBin_HLT80_R4_20_eta_20_cent4;1	Spectra from  Jet 80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_anaBin_HLT65_R4_20_eta_20_cent4;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_anaBin_HLT55_R4_20_eta_20_cent4;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_anaBin_HLTComb_R4_20_eta_20_cent4;1	Trig Combined Spectra R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_JEC_HLT80_R4_20_eta_20_cent4;1	Spectra from  Jet 80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_JEC_HLT65_R4_20_eta_20_cent4;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_JEC_HLT55_R4_20_eta_20_cent4;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_JEC_HLTComb_R4_20_eta_20_cent4;1	Trig Combined Spectra R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Smear_HLT80_R4_20_eta_20_cent4;1	Spectra from  Jet 80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Smear_HLT65_R4_20_eta_20_cent4;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Smear_HLT55_R4_20_eta_20_cent4;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Smear_HLTComb_R4_20_eta_20_cent4;1	Trig Combined Spectra R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_etacent_R4_cent4;1	Eta distribution from Jet80 trigger R4 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_etacent_R4_cent4;1	Eta distribution from Jet65 && !Jet80 trigger R4 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_etacent_R4_cent4;1	Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R4 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_phicent_R4_cent4;1	Phi distribution from Jet80 trigger R4 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_phicent_R4_cent4;1	Phi distribution from Jet65 && !Jet80 trigger R4 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_phicent_R4_cent4;1	Phi distribution from Jet55 && !Jet65 && !Jet80 trigger R4 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_etaprecut_cent_R4_cent4;1	Eta precut distribution from Jet80 trigger R4 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_etaprecut_cent_R4_cent4;1	Eta precut distribution from Jet65 && !Jet80 trigger R4 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_etaprecut_cent_R4_cent4;1	Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_phiprecut_cent_R4_cent4;1	Phi precut distribution from Jet80 trigger R4 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_phiprecut_cent_R4_cent4;1	Phi precut distribution from Jet65 && !Jet80 trigger R4 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_phiprecut_cent_R4_cent4;1	Phi precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 100 - 140 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_R4_cent4;1	Phi vs Eta distribution from Jet80 trigger R4 100 - 140 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_R4_cent4;1	Phi vs Eta distribution from Jet65 && !Jet80 trigger R4 100 - 140 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_R4_cent4;1	Phi vs Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R4 100 - 140 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_precut_R4_cent4;1	Phi vs Eta precut distribution from Jet80 trigger R4 100 - 140 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_precut_R4_cent4;1	Phi vs Eta precut distribution from Jet65 && !Jet80 trigger R4 100 - 140 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_precut_R4_cent4;1	Phi vs Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 100 - 140 cent
+  KEY: TH1F	hpbpb_HLT80_R4_20_eta_20_cent5;1	Spectra from  Jet 80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_HLT65_R4_20_eta_20_cent5;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_HLT55_R4_20_eta_20_cent5;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_HLTComb_R4_20_eta_20_cent5;1	Trig Combined Spectra R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_raw_HLT80_R4_20_eta_20_cent5;1	Spectra from  Jet 80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_raw_HLT65_R4_20_eta_20_cent5;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_raw_HLT55_R4_20_eta_20_cent5;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_raw_HLTComb_R4_20_eta_20_cent5;1	Trig Combined Spectra R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_anaBin_HLT80_R4_20_eta_20_cent5;1	Spectra from  Jet 80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_anaBin_HLT65_R4_20_eta_20_cent5;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_anaBin_HLT55_R4_20_eta_20_cent5;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_anaBin_HLTComb_R4_20_eta_20_cent5;1	Trig Combined Spectra R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_JEC_HLT80_R4_20_eta_20_cent5;1	Spectra from  Jet 80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_JEC_HLT65_R4_20_eta_20_cent5;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_JEC_HLT55_R4_20_eta_20_cent5;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_JEC_HLTComb_R4_20_eta_20_cent5;1	Trig Combined Spectra R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Smear_HLT80_R4_20_eta_20_cent5;1	Spectra from  Jet 80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Smear_HLT65_R4_20_eta_20_cent5;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Smear_HLT55_R4_20_eta_20_cent5;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Smear_HLTComb_R4_20_eta_20_cent5;1	Trig Combined Spectra R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_etacent_R4_cent5;1	Eta distribution from Jet80 trigger R4 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_etacent_R4_cent5;1	Eta distribution from Jet65 && !Jet80 trigger R4 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_etacent_R4_cent5;1	Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R4 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_phicent_R4_cent5;1	Phi distribution from Jet80 trigger R4 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_phicent_R4_cent5;1	Phi distribution from Jet65 && !Jet80 trigger R4 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_phicent_R4_cent5;1	Phi distribution from Jet55 && !Jet65 && !Jet80 trigger R4 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_etaprecut_cent_R4_cent5;1	Eta precut distribution from Jet80 trigger R4 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_etaprecut_cent_R4_cent5;1	Eta precut distribution from Jet65 && !Jet80 trigger R4 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_etaprecut_cent_R4_cent5;1	Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_phiprecut_cent_R4_cent5;1	Phi precut distribution from Jet80 trigger R4 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_phiprecut_cent_R4_cent5;1	Phi precut distribution from Jet65 && !Jet80 trigger R4 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_phiprecut_cent_R4_cent5;1	Phi precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 140 - 180 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_R4_cent5;1	Phi vs Eta distribution from Jet80 trigger R4 140 - 180 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_R4_cent5;1	Phi vs Eta distribution from Jet65 && !Jet80 trigger R4 140 - 180 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_R4_cent5;1	Phi vs Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R4 140 - 180 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_precut_R4_cent5;1	Phi vs Eta precut distribution from Jet80 trigger R4 140 - 180 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_precut_R4_cent5;1	Phi vs Eta precut distribution from Jet65 && !Jet80 trigger R4 140 - 180 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_precut_R4_cent5;1	Phi vs Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R4 140 - 180 cent
+  KEY: TH1F	hJet55_File;1	
+  KEY: TH1F	hJet65_File;1	
+  KEY: TH1F	hJet80_File;1	
+  KEY: TH1F	hJet65not80_File;1	
+  KEY: TH1F	hJet55not6580_File;1	
+  KEY: TH1F	hpbpb_HLT80_944Scale_R4_20_eta_20_cent0;1	Spectra from  Jet 80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLT65_944Scale_R4_20_eta_20_cent0;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLT55_944Scale_R4_20_eta_20_cent0;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLTComb_944Scale_R4_20_eta_20_cent0;1	Spectra from  Jet 80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLT80_NeqScalePerCent_R4_20_eta_20_cent0;1	Spectra from  Jet 80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLT65_NeqScalePerCent_R4_20_eta_20_cent0;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLT55_NeqScalePerCent_R4_20_eta_20_cent0;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLTComb_NeqScalePerCent_R4_20_eta_20_cent0;1	Spectra from  Jet 80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLT80_NeqScale_R4_20_eta_20_cent0;1	Spectra from  Jet 80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLT65_NeqScale_R4_20_eta_20_cent0;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLT55_NeqScale_R4_20_eta_20_cent0;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLTComb_NeqScale_R4_20_eta_20_cent0;1	Spectra from  Jet 80 R4 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_HLT80_944Scale_R4_20_eta_20_cent1;1	Spectra from  Jet 80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLT65_944Scale_R4_20_eta_20_cent1;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLT55_944Scale_R4_20_eta_20_cent1;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLTComb_944Scale_R4_20_eta_20_cent1;1	Spectra from  Jet 80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLT80_NeqScalePerCent_R4_20_eta_20_cent1;1	Spectra from  Jet 80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLT65_NeqScalePerCent_R4_20_eta_20_cent1;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLT55_NeqScalePerCent_R4_20_eta_20_cent1;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLTComb_NeqScalePerCent_R4_20_eta_20_cent1;1	Spectra from  Jet 80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLT80_NeqScale_R4_20_eta_20_cent1;1	Spectra from  Jet 80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLT65_NeqScale_R4_20_eta_20_cent1;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLT55_NeqScale_R4_20_eta_20_cent1;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLTComb_NeqScale_R4_20_eta_20_cent1;1	Spectra from  Jet 80 R4 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_HLT80_944Scale_R4_20_eta_20_cent2;1	Spectra from  Jet 80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLT65_944Scale_R4_20_eta_20_cent2;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLT55_944Scale_R4_20_eta_20_cent2;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLTComb_944Scale_R4_20_eta_20_cent2;1	Spectra from  Jet 80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLT80_NeqScalePerCent_R4_20_eta_20_cent2;1	Spectra from  Jet 80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLT65_NeqScalePerCent_R4_20_eta_20_cent2;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLT55_NeqScalePerCent_R4_20_eta_20_cent2;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLTComb_NeqScalePerCent_R4_20_eta_20_cent2;1	Spectra from  Jet 80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLT80_NeqScale_R4_20_eta_20_cent2;1	Spectra from  Jet 80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLT65_NeqScale_R4_20_eta_20_cent2;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLT55_NeqScale_R4_20_eta_20_cent2;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLTComb_NeqScale_R4_20_eta_20_cent2;1	Spectra from  Jet 80 R4 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_HLT80_944Scale_R4_20_eta_20_cent3;1	Spectra from  Jet 80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLT65_944Scale_R4_20_eta_20_cent3;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLT55_944Scale_R4_20_eta_20_cent3;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLTComb_944Scale_R4_20_eta_20_cent3;1	Spectra from  Jet 80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLT80_NeqScalePerCent_R4_20_eta_20_cent3;1	Spectra from  Jet 80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLT65_NeqScalePerCent_R4_20_eta_20_cent3;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLT55_NeqScalePerCent_R4_20_eta_20_cent3;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLTComb_NeqScalePerCent_R4_20_eta_20_cent3;1	Spectra from  Jet 80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLT80_NeqScale_R4_20_eta_20_cent3;1	Spectra from  Jet 80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLT65_NeqScale_R4_20_eta_20_cent3;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLT55_NeqScale_R4_20_eta_20_cent3;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLTComb_NeqScale_R4_20_eta_20_cent3;1	Spectra from  Jet 80 R4 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_HLT80_944Scale_R4_20_eta_20_cent4;1	Spectra from  Jet 80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLT65_944Scale_R4_20_eta_20_cent4;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLT55_944Scale_R4_20_eta_20_cent4;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLTComb_944Scale_R4_20_eta_20_cent4;1	Spectra from  Jet 80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLT80_NeqScalePerCent_R4_20_eta_20_cent4;1	Spectra from  Jet 80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLT65_NeqScalePerCent_R4_20_eta_20_cent4;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLT55_NeqScalePerCent_R4_20_eta_20_cent4;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLTComb_NeqScalePerCent_R4_20_eta_20_cent4;1	Spectra from  Jet 80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLT80_NeqScale_R4_20_eta_20_cent4;1	Spectra from  Jet 80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLT65_NeqScale_R4_20_eta_20_cent4;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLT55_NeqScale_R4_20_eta_20_cent4;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLTComb_NeqScale_R4_20_eta_20_cent4;1	Spectra from  Jet 80 R4 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_HLT80_944Scale_R4_20_eta_20_cent5;1	Spectra from  Jet 80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_HLT65_944Scale_R4_20_eta_20_cent5;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_HLT55_944Scale_R4_20_eta_20_cent5;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_HLTComb_944Scale_R4_20_eta_20_cent5;1	Spectra from  Jet 80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_HLT80_NeqScalePerCent_R4_20_eta_20_cent5;1	Spectra from  Jet 80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_HLT65_NeqScalePerCent_R4_20_eta_20_cent5;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_HLT55_NeqScalePerCent_R4_20_eta_20_cent5;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_HLTComb_NeqScalePerCent_R4_20_eta_20_cent5;1	Spectra from  Jet 80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_HLT80_NeqScale_R4_20_eta_20_cent5;1	Spectra from  Jet 80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_HLT65_NeqScale_R4_20_eta_20_cent5;1	Spectra from  Jet 65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_HLT55_NeqScale_R4_20_eta_20_cent5;1	Spectra from Jet 55 && !jet65 && !jet80 R4 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_HLTComb_NeqScale_R4_20_eta_20_cent5;1	Spectra from  Jet 80 R4 20_eta_20 140 - 180 cent

@@ -1,0 +1,63 @@
+000 (556094.000.000) 08/12 11:33:43 Job submitted from host: <18.12.1.74:48322>
+...
+001 (556094.000.000) 08/12 11:57:19 Job executing on host: <18.12.9.30:44672>
+...
+006 (556094.000.000) 08/12 11:57:28 Image size of job updated: 2
+	3  -  MemoryUsage of job (MB)
+	2356  -  ResidentSetSize of job (KB)
+...
+006 (556094.000.000) 08/12 12:02:29 Image size of job updated: 230112
+	108  -  MemoryUsage of job (MB)
+	110220  -  ResidentSetSize of job (KB)
+...
+006 (556094.000.000) 08/12 12:07:29 Image size of job updated: 230112
+	110  -  MemoryUsage of job (MB)
+	112512  -  ResidentSetSize of job (KB)
+...
+005 (556094.000.000) 08/12 12:10:46 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:58, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:58, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586242  -  Run Bytes Sent By Job
+	62715  -  Run Bytes Received By Job
+	586242  -  Total Bytes Sent By Job
+	62715  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :      110      110          
+...
+000 (566463.000.000) 08/20 21:05:33 Job submitted from host: <18.12.1.74:48322>
+...
+007 (566463.000.000) 08/20 21:06:59 Shadow exception!
+	Error from slot25@t2bat0297.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+001 (566463.000.000) 08/20 21:07:01 Job executing on host: <18.12.9.41:47519>
+...
+006 (566463.000.000) 08/20 21:07:11 Image size of job updated: 2
+	3  -  MemoryUsage of job (MB)
+	2356  -  ResidentSetSize of job (KB)
+...
+006 (566463.000.000) 08/20 21:10:51 Image size of job updated: 230112
+	3  -  MemoryUsage of job (MB)
+	2356  -  ResidentSetSize of job (KB)
+...
+005 (566463.000.000) 08/20 21:17:09 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:53, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:53, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586371  -  Run Bytes Sent By Job
+	62731  -  Run Bytes Received By Job
+	586371  -  Total Bytes Sent By Job
+	62731  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :        3        3          
+...

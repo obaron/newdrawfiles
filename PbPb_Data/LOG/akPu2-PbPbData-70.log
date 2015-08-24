@@ -1,0 +1,70 @@
+000 (556008.000.000) 08/12 11:33:35 Job submitted from host: <18.12.1.74:48322>
+...
+001 (556008.000.000) 08/12 11:38:20 Job executing on host: <18.12.8.155:42555>
+...
+006 (556008.000.000) 08/12 11:38:29 Image size of job updated: 2
+	3  -  MemoryUsage of job (MB)
+	2336  -  ResidentSetSize of job (KB)
+...
+006 (556008.000.000) 08/12 11:41:00 Image size of job updated: 229884
+	3  -  MemoryUsage of job (MB)
+	2336  -  ResidentSetSize of job (KB)
+...
+005 (556008.000.000) 08/12 11:41:00 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:35, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:35, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586051  -  Run Bytes Sent By Job
+	62715  -  Run Bytes Received By Job
+	586051  -  Total Bytes Sent By Job
+	62715  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :        3        3          
+...
+000 (566377.000.000) 08/20 21:00:11 Job submitted from host: <18.12.1.74:48322>
+...
+001 (566377.000.000) 08/20 21:00:34 Job executing on host: <18.12.9.43:40073>
+...
+006 (566377.000.000) 08/20 21:00:43 Image size of job updated: 192964
+	80  -  MemoryUsage of job (MB)
+	81700  -  ResidentSetSize of job (KB)
+...
+006 (566377.000.000) 08/20 21:02:51 Image size of job updated: 230360
+	80  -  MemoryUsage of job (MB)
+	81700  -  ResidentSetSize of job (KB)
+...
+022 (566377.000.000) 08/20 21:02:51 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot11@t2bat0299.cmsaf.mit.edu <18.12.9.43:40073>
+...
+023 (566377.000.000) 08/20 21:02:52 Job reconnected to slot11@t2bat0299.cmsaf.mit.edu
+    startd address: <18.12.9.43:40073>
+    starter address: <18.12.9.43:47666>
+...
+022 (566377.000.000) 08/20 21:02:53 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot11@t2bat0299.cmsaf.mit.edu <18.12.9.43:40073>
+...
+023 (566377.000.000) 08/20 21:02:53 Job reconnected to slot11@t2bat0299.cmsaf.mit.edu
+    startd address: <18.12.9.43:40073>
+    starter address: <18.12.9.43:47666>
+...
+005 (566377.000.000) 08/20 21:09:03 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:29, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:29, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586298  -  Run Bytes Sent By Job
+	62731  -  Run Bytes Received By Job
+	586298  -  Total Bytes Sent By Job
+	62731  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :       80       80          
+...

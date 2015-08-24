@@ -1,0 +1,84 @@
+000 (556066.000.000) 08/12 11:33:41 Job submitted from host: <18.12.1.74:48322>
+...
+001 (556066.000.000) 08/12 11:51:32 Job executing on host: <18.12.8.35:49344>
+...
+006 (556066.000.000) 08/12 11:51:40 Image size of job updated: 2
+	3  -  MemoryUsage of job (MB)
+	2348  -  ResidentSetSize of job (KB)
+...
+006 (556066.000.000) 08/12 11:55:49 Image size of job updated: 230240
+	3  -  MemoryUsage of job (MB)
+	2348  -  ResidentSetSize of job (KB)
+...
+005 (556066.000.000) 08/12 11:55:49 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:01:35, Sys 0 00:00:04  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:01:35, Sys 0 00:00:04  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586133  -  Run Bytes Sent By Job
+	62715  -  Run Bytes Received By Job
+	586133  -  Total Bytes Sent By Job
+	62715  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :        3        3          
+...
+000 (566435.000.000) 08/20 21:03:09 Job submitted from host: <18.12.1.74:48322>
+...
+007 (566435.000.000) 08/20 21:04:13 Shadow exception!
+	Error from slot21@t2bat0339.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566435.000.000) 08/20 21:04:23 Shadow exception!
+	Error from slot28@t2bat0334.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566435.000.000) 08/20 21:04:31 Shadow exception!
+	Error from slot28@t2bat0334.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566435.000.000) 08/20 21:05:22 Shadow exception!
+	Error from slot31@t2bat0302.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566435.000.000) 08/20 21:05:27 Shadow exception!
+	Error from slot27@t2bat0297.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566435.000.000) 08/20 21:05:34 Shadow exception!
+	Error from slot27@t2bat0286.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+001 (566435.000.000) 08/20 21:05:47 Job executing on host: <18.12.9.30:44672>
+...
+006 (566435.000.000) 08/20 21:05:56 Image size of job updated: 193800
+	78  -  MemoryUsage of job (MB)
+	79564  -  ResidentSetSize of job (KB)
+...
+006 (566435.000.000) 08/20 21:10:17 Image size of job updated: 230240
+	78  -  MemoryUsage of job (MB)
+	79564  -  ResidentSetSize of job (KB)
+...
+005 (566435.000.000) 08/20 21:16:28 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:58, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:58, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586384  -  Run Bytes Sent By Job
+	62731  -  Run Bytes Received By Job
+	586384  -  Total Bytes Sent By Job
+	62731  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :       78       78          
+...

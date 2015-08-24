@@ -1,0 +1,74 @@
+000 (556007.000.000) 08/12 11:33:35 Job submitted from host: <18.12.1.74:48322>
+...
+001 (556007.000.000) 08/12 11:38:20 Job executing on host: <18.12.8.40:44599>
+...
+006 (556007.000.000) 08/12 11:38:29 Image size of job updated: 2
+	3  -  MemoryUsage of job (MB)
+	2344  -  ResidentSetSize of job (KB)
+...
+006 (556007.000.000) 08/12 11:39:48 Image size of job updated: 238116
+	3  -  MemoryUsage of job (MB)
+	2344  -  ResidentSetSize of job (KB)
+...
+005 (556007.000.000) 08/12 11:39:48 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:47, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:47, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586062  -  Run Bytes Sent By Job
+	62715  -  Run Bytes Received By Job
+	586062  -  Total Bytes Sent By Job
+	62715  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :        3        3          
+...
+000 (566376.000.000) 08/20 21:00:09 Job submitted from host: <18.12.1.74:48322>
+...
+007 (566376.000.000) 08/20 21:00:33 Shadow exception!
+	Error from slot11@t2bat0309.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566376.000.000) 08/20 21:00:36 Shadow exception!
+	Error from slot7@t2bat0197.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566376.000.000) 08/20 21:00:41 Shadow exception!
+	Error from slot8@t2bat0292.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (566376.000.000) 08/20 21:00:42 Shadow exception!
+	Error from slot8@t2bat0292.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+001 (566376.000.000) 08/20 21:01:18 Job executing on host: <18.12.9.44:45183>
+...
+006 (566376.000.000) 08/20 21:01:26 Image size of job updated: 66156
+	8  -  MemoryUsage of job (MB)
+	8188  -  ResidentSetSize of job (KB)
+...
+006 (566376.000.000) 08/20 21:03:57 Image size of job updated: 229908
+	8  -  MemoryUsage of job (MB)
+	8188  -  ResidentSetSize of job (KB)
+...
+005 (566376.000.000) 08/20 21:10:29 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:36, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:36, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586310  -  Run Bytes Sent By Job
+	62731  -  Run Bytes Received By Job
+	586310  -  Total Bytes Sent By Job
+	62731  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :        8        8          
+...

@@ -1,0 +1,17 @@
+fmc = new TFile("/net/hisrv0001/home/obaron/CMSSW_5_3_20/newdrawfiles/PbPb_MC/PbPb_MC_histograms_FromForest_akPu4_anabin_20_eta_20.root")
+
+h_mc_EtaPrecut80 = (TH1F*)fmc->Get("hpbpb_Jet80_etaprecut_cent_R4_cent1");
+h_mc_Eta80 = (TH1F*)fmc->Get("hpbpb_Jet80_etacent_R4_cent1");
+
+fdata = new TFile("/net/hisrv0001/home/obaron/CMSSW_5_3_20/newdrawfiles/PbPb_Data/PbPb_Data_histograms_FromForest_akPu4_anabin_20_eta_20.root")
+
+h_data_EtaPrecut80 = (TH1F*)fdata->Get("hpbpb_Jet80_etaprecut_cent_R4_cent1");
+h_data_Eta80 = (TH1F*)fdata->Get("hpbpb_Jet80_etacent_R4_cent1");
+
+h_mc_EtaRatio80 = new TH1F(Form("E80_mc"),Form("Eta 80 MC Cut/Precut"),30,-2.5,2.5);
+h_mc_EtaRatio80->Divide(h_mc_Eta80,h_mc_EtaPrecut80);
+h_data_EtaRatio80 = new TH1F(Form("E80_data"),Form("Eta 80 Data Cut/Precut"),30,-2.5,2.5);
+h_data_EtaRatio80->Divide(h_data_Eta80,h_data_EtaPrecut80);
+h_mc_EtaRatio80->Draw()
+h_data_EtaRatio80->SetLineColor(2)
+h_data_EtaRatio80->Draw("same")

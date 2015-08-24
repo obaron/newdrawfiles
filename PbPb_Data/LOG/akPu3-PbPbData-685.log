@@ -1,0 +1,98 @@
+000 (554313.000.000) 08/11 09:09:19 Job submitted from host: <18.12.1.74:48322>
+...
+001 (554313.000.000) 08/11 09:09:57 Job executing on host: <18.12.1.40:43942>
+...
+006 (554313.000.000) 08/11 09:10:05 Image size of job updated: 2
+	3  -  MemoryUsage of job (MB)
+	2332  -  ResidentSetSize of job (KB)
+...
+006 (554313.000.000) 08/11 09:15:05 Image size of job updated: 230476
+	91  -  MemoryUsage of job (MB)
+	92464  -  ResidentSetSize of job (KB)
+...
+006 (554313.000.000) 08/11 09:20:06 Image size of job updated: 230476
+	98  -  MemoryUsage of job (MB)
+	99688  -  ResidentSetSize of job (KB)
+...
+006 (554313.000.000) 08/11 09:25:07 Image size of job updated: 230476
+	100  -  MemoryUsage of job (MB)
+	101676  -  ResidentSetSize of job (KB)
+...
+006 (554313.000.000) 08/11 09:30:07 Image size of job updated: 230476
+	100  -  MemoryUsage of job (MB)
+	102128  -  ResidentSetSize of job (KB)
+...
+005 (554313.000.000) 08/11 09:31:34 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:09:31, Sys 0 00:00:08  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:09:31, Sys 0 00:00:08  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586128  -  Run Bytes Sent By Job
+	62717  -  Run Bytes Received By Job
+	586128  -  Total Bytes Sent By Job
+	62717  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :      100      100          
+...
+000 (558028.000.000) 08/13 13:34:25 Job submitted from host: <18.12.1.74:48322>
+...
+001 (558028.000.000) 08/13 14:01:56 Job executing on host: <18.12.8.218:43942>
+...
+006 (558028.000.000) 08/13 14:02:05 Image size of job updated: 13384
+	2  -  MemoryUsage of job (MB)
+	1976  -  ResidentSetSize of job (KB)
+...
+006 (558028.000.000) 08/13 14:04:44 Image size of job updated: 230484
+	2  -  MemoryUsage of job (MB)
+	1976  -  ResidentSetSize of job (KB)
+...
+005 (558028.000.000) 08/13 14:04:44 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:01:22, Sys 0 00:00:01  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:01:22, Sys 0 00:00:01  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586179  -  Run Bytes Sent By Job
+	62720  -  Run Bytes Received By Job
+	586179  -  Total Bytes Sent By Job
+	62720  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :        2        2          
+...
+000 (566319.000.000) 08/20 20:27:48 Job submitted from host: <18.12.1.74:48322>
+...
+007 (566319.000.000) 08/20 20:27:50 Shadow exception!
+	Error from slot22@t2bat0300.cmsaf.mit.edu: Failed to transfer files
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+001 (566319.000.000) 08/20 20:27:55 Job executing on host: <18.12.9.44:45183>
+...
+006 (566319.000.000) 08/20 20:28:04 Image size of job updated: 93588
+	3  -  MemoryUsage of job (MB)
+	2432  -  ResidentSetSize of job (KB)
+...
+006 (566319.000.000) 08/20 20:33:04 Image size of job updated: 230476
+	105  -  MemoryUsage of job (MB)
+	106504  -  ResidentSetSize of job (KB)
+...
+005 (566319.000.000) 08/20 20:42:00 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:01:28, Sys 0 00:00:03  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:01:28, Sys 0 00:00:03  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	586568  -  Run Bytes Sent By Job
+	62732  -  Run Bytes Received By Job
+	586568  -  Total Bytes Sent By Job
+	62732  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      659      659          
+	   Memory (MB)          :      105      105          
+...
