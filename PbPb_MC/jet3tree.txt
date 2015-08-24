@@ -1,0 +1,257 @@
+******************************************************************************
+*Tree    :t         : akPu3PFpatJets Jet Analysis Tree                       *
+*Entries :   333206 : Total =      1158486354 bytes  File  Size =  471160492 *
+*        :          : Tree compression factor =   2.46                       *
+******************************************************************************
+*Br    0 :evt       : evt/I                                                  *
+*Entries :   333206 : Total  Size=    1362429 bytes  File Size  =     655842 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=   2.07     *
+*............................................................................*
+*Br    1 :b         : b/F                                                    *
+*Entries :   333206 : Total  Size=    1361747 bytes  File Size  =      41662 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=  32.52     *
+*............................................................................*
+*Br    2 :nref      : nref/I                                                 *
+*Entries :   333206 : Total  Size=    1362770 bytes  File Size  =     448665 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=   3.02     *
+*............................................................................*
+*Br    3 :rawpt     : rawpt[nref]/F                                          *
+*Entries :   333206 : Total  Size=   23615107 bytes  File Size  =   20600416 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br    4 :jtpt      : jtpt[nref]/F                                           *
+*Entries :   333206 : Total  Size=   23614125 bytes  File Size  =   20158781 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.17     *
+*............................................................................*
+*Br    5 :jteta     : jteta[nref]/F                                          *
+*Entries :   333206 : Total  Size=   23615107 bytes  File Size  =   19529871 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.21     *
+*............................................................................*
+*Br    6 :jty       : jty[nref]/F                                            *
+*Entries :   333206 : Total  Size=   23613143 bytes  File Size  =   19525700 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.21     *
+*............................................................................*
+*Br    7 :jtphi     : jtphi[nref]/F                                          *
+*Entries :   333206 : Total  Size=   23615107 bytes  File Size  =   19330018 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.22     *
+*............................................................................*
+*Br    8 :jtpu      : jtpu[nref]/F                                           *
+*Entries :   333206 : Total  Size=   23614125 bytes  File Size  =   19248768 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.23     *
+*............................................................................*
+*Br    9 :jtm       : jtm[nref]/F                                            *
+*Entries :   333206 : Total  Size=   23613143 bytes  File Size  =   18741656 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.26     *
+*............................................................................*
+*Br   10 :discr_fr01 : discr_fr01[nref]/F                                    *
+*Entries :   333206 : Total  Size=   23620017 bytes  File Size  =    2369136 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   9.96     *
+*............................................................................*
+*Br   11 :trackMax  : trackMax[nref]/F                                       *
+*Entries :   333206 : Total  Size=   23618053 bytes  File Size  =   16807842 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.40     *
+*............................................................................*
+*Br   12 :trackSum  : trackSum[nref]/F                                       *
+*Entries :   333206 : Total  Size=   23618053 bytes  File Size  =   17053030 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.38     *
+*............................................................................*
+*Br   13 :trackN    : trackN[nref]/I                                         *
+*Entries :   333206 : Total  Size=   23616082 bytes  File Size  =    6741143 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   3.50     *
+*............................................................................*
+*Br   14 :trackHardSum : trackHardSum[nref]/F                                *
+*Entries :   333206 : Total  Size=   23621981 bytes  File Size  =    3362357 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   7.02     *
+*............................................................................*
+*Br   15 :trackHardN : trackHardN[nref]/I                                    *
+*Entries :   333206 : Total  Size=   23620010 bytes  File Size  =    2041841 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  11.56     *
+*............................................................................*
+*Br   16 :chargedMax : chargedMax[nref]/F                                    *
+*Entries :   333206 : Total  Size=   23620017 bytes  File Size  =   16809772 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.40     *
+*............................................................................*
+*Br   17 :chargedSum : chargedSum[nref]/F                                    *
+*Entries :   333206 : Total  Size=   23620017 bytes  File Size  =   17051139 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.38     *
+*............................................................................*
+*Br   18 :chargedN  : chargedN[nref]/I                                       *
+*Entries :   333206 : Total  Size=   23618046 bytes  File Size  =    6731984 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   3.51     *
+*............................................................................*
+*Br   19 :chargedHardSum : chargedHardSum[nref]/F                            *
+*Entries :   333206 : Total  Size=   23623945 bytes  File Size  =    3352336 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   7.04     *
+*............................................................................*
+*Br   20 :chargedHardN : chargedHardN[nref]/I                                *
+*Entries :   333206 : Total  Size=   23621974 bytes  File Size  =    2034116 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  11.60     *
+*............................................................................*
+*Br   21 :photonMax : photonMax[nref]/F                                      *
+*Entries :   333206 : Total  Size=   23619035 bytes  File Size  =   20777619 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.14     *
+*............................................................................*
+*Br   22 :photonSum : photonSum[nref]/F                                      *
+*Entries :   333206 : Total  Size=   23619035 bytes  File Size  =   20811622 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.13     *
+*............................................................................*
+*Br   23 :photonN   : photonN[nref]/I                                        *
+*Entries :   333206 : Total  Size=   23617064 bytes  File Size  =    6806337 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   3.47     *
+*............................................................................*
+*Br   24 :photonHardSum : photonHardSum[nref]/F                              *
+*Entries :   333206 : Total  Size=   23622963 bytes  File Size  =   13798244 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.71     *
+*............................................................................*
+*Br   25 :photonHardN : photonHardN[nref]/I                                  *
+*Entries :   333206 : Total  Size=   23620992 bytes  File Size  =    4587332 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   5.14     *
+*............................................................................*
+*Br   26 :neutralMax : neutralMax[nref]/F                                    *
+*Entries :   333206 : Total  Size=   23620017 bytes  File Size  =   19132823 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.23     *
+*............................................................................*
+*Br   27 :neutralSum : neutralSum[nref]/F                                    *
+*Entries :   333206 : Total  Size=   23620017 bytes  File Size  =   19224667 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.23     *
+*............................................................................*
+*Br   28 :neutralN  : neutralN[nref]/I                                       *
+*Entries :   333206 : Total  Size=   23618046 bytes  File Size  =    4599808 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   5.13     *
+*............................................................................*
+*Br   29 :hcalSum   : hcalSum[nref]/F                                        *
+*Entries :   333206 : Total  Size=   23617071 bytes  File Size  =   20820504 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.13     *
+*............................................................................*
+*Br   30 :ecalSum   : ecalSum[nref]/F                                        *
+*Entries :   333206 : Total  Size=   23617071 bytes  File Size  =   20747897 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.14     *
+*............................................................................*
+*Br   31 :eMax      : eMax[nref]/F                                           *
+*Entries :   333206 : Total  Size=   23614125 bytes  File Size  =    1464184 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  16.11     *
+*............................................................................*
+*Br   32 :eSum      : eSum[nref]/F                                           *
+*Entries :   333206 : Total  Size=   23614125 bytes  File Size  =    1464552 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  16.11     *
+*............................................................................*
+*Br   33 :eN        : eN[nref]/I                                             *
+*Entries :   333206 : Total  Size=   23612154 bytes  File Size  =    1206536 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  19.55     *
+*............................................................................*
+*Br   34 :muMax     : muMax[nref]/F                                          *
+*Entries :   333206 : Total  Size=   23615107 bytes  File Size  =    1584652 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  14.89     *
+*............................................................................*
+*Br   35 :muSum     : muSum[nref]/F                                          *
+*Entries :   333206 : Total  Size=   23615107 bytes  File Size  =    1587517 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  14.86     *
+*............................................................................*
+*Br   36 :muN       : muN[nref]/I                                            *
+*Entries :   333206 : Total  Size=   23613136 bytes  File Size  =    1270040 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  18.58     *
+*............................................................................*
+*Br   37 :beamId1   : beamId1/I                                              *
+*Entries :   333206 : Total  Size=    1363793 bytes  File Size  =     174359 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=   7.78     *
+*............................................................................*
+*Br   38 :beamId2   : beamId2/I                                              *
+*Entries :   333206 : Total  Size=    1363793 bytes  File Size  =     174168 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=   7.79     *
+*............................................................................*
+*Br   39 :pthat     : pthat/F                                                *
+*Entries :   333206 : Total  Size=    1363111 bytes  File Size  =    1178479 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=   1.15     *
+*............................................................................*
+*Br   40 :refpt     : refpt[nref]/F                                          *
+*Entries :   333206 : Total  Size=   23615107 bytes  File Size  =    1824457 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  12.93     *
+*............................................................................*
+*Br   41 :refeta    : refeta[nref]/F                                         *
+*Entries :   333206 : Total  Size=   23616089 bytes  File Size  =    1850963 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  12.75     *
+*............................................................................*
+*Br   42 :refy      : refy[nref]/F                                           *
+*Entries :   333206 : Total  Size=   23614125 bytes  File Size  =    1845904 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  12.78     *
+*............................................................................*
+*Br   43 :refphi    : refphi[nref]/F                                         *
+*Entries :   333206 : Total  Size=   23616089 bytes  File Size  =    1850225 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  12.75     *
+*............................................................................*
+*Br   44 :refdphijt : refdphijt[nref]/F                                      *
+*Entries :   333206 : Total  Size=   23619035 bytes  File Size  =    1828065 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  12.91     *
+*............................................................................*
+*Br   45 :refdrjt   : refdrjt[nref]/F                                        *
+*Entries :   333206 : Total  Size=   23617071 bytes  File Size  =    1838324 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  12.84     *
+*............................................................................*
+*Br   46 :refparton_pt : refparton_pt[nref]/F                                *
+*Entries :   333206 : Total  Size=   23621981 bytes  File Size  =   14272777 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.65     *
+*............................................................................*
+*Br   47 :refparton_flavor : refparton_flavor[nref]/I                        *
+*Entries :   333206 : Total  Size=   23625902 bytes  File Size  =    4853730 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   4.86     *
+*............................................................................*
+*Br   48 :refparton_flavorForB : refparton_flavorForB[nref]/I                *
+*Entries :   333206 : Total  Size=   23629830 bytes  File Size  =     940104 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  25.11     *
+*............................................................................*
+*Br   49 :genChargedSum : genChargedSum[nref]/F                              *
+*Entries :   333206 : Total  Size=   23622963 bytes  File Size  =   20687911 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   1.14     *
+*............................................................................*
+*Br   50 :genHardSum : genHardSum[nref]/F                                    *
+*Entries :   333206 : Total  Size=   23620017 bytes  File Size  =    4451247 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   5.30     *
+*............................................................................*
+*Br   51 :signalChargedSum : signalChargedSum[nref]/F                        *
+*Entries :   333206 : Total  Size=   23625909 bytes  File Size  =   11596541 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   2.04     *
+*............................................................................*
+*Br   52 :signalHardSum : signalHardSum[nref]/F                              *
+*Entries :   333206 : Total  Size=   23622963 bytes  File Size  =    2440103 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=   9.67     *
+*............................................................................*
+*Br   53 :subid     : subid[nref]/I                                          *
+*Entries :   333206 : Total  Size=   23615100 bytes  File Size  =    1446578 *
+*Baskets :      978 : Basket Size=      32000 bytes  Compression=  16.31     *
+*............................................................................*
+*Br   54 :ngen      : ngen/I                                                 *
+*Entries :   333206 : Total  Size=    1362770 bytes  File Size  =     195098 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=   6.95     *
+*............................................................................*
+*Br   55 :genmatchindex : genmatchindex[ngen]/I                              *
+*Entries :   333206 : Total  Size=    1911211 bytes  File Size  =     445744 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=   4.27     *
+*............................................................................*
+*Br   56 :genpt     : genpt[ngen]/F                                          *
+*Entries :   333206 : Total  Size=    1908490 bytes  File Size  =     804715 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=   2.36     *
+*............................................................................*
+*Br   57 :geneta    : geneta[ngen]/F                                         *
+*Entries :   333206 : Total  Size=    1908831 bytes  File Size  =     838690 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br   58 :geny      : geny[ngen]/F                                           *
+*Entries :   333206 : Total  Size=    1908149 bytes  File Size  =     836954 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br   59 :genphi    : genphi[ngen]/F                                         *
+*Entries :   333206 : Total  Size=    1908831 bytes  File Size  =     837343 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=   2.27     *
+*............................................................................*
+*Br   60 :gendphijt : gendphijt[ngen]/F                                      *
+*Entries :   333206 : Total  Size=    1909854 bytes  File Size  =     286653 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=   6.64     *
+*............................................................................*
+*Br   61 :gendrjt   : gendrjt[ngen]/F                                        *
+*Entries :   333206 : Total  Size=    1909172 bytes  File Size  =     322397 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=   5.90     *
+*............................................................................*
+*Br   62 :gensubid  : gensubid[ngen]/I                                       *
+*Entries :   333206 : Total  Size=    1909506 bytes  File Size  =     384589 *
+*Baskets :      337 : Basket Size=      32000 bytes  Compression=   4.95     *
+*............................................................................*

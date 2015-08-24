@@ -1,0 +1,49 @@
+******************************************************************************
+*Tree    :pfTree    : dijet tree                                             *
+*Entries :   366982 : Total =     19413390505 bytes  File  Size = 14282797591 *
+*        :          : Tree compression factor =   1.36                       *
+******************************************************************************
+*Br    0 :nPFpart   : nPFpart/I                                              *
+*Entries :   366982 : Total  Size=    1538886 bytes  File Size  =     960883 *
+*Baskets :      736 : Basket Size=      51200 bytes  Compression=   1.59     *
+*............................................................................*
+*Br    1 :pfId      : pfId[nPFpart]/I                                        *
+*Entries :366982 : Total  Size= 2738257771 bytes  File Size  = 168004731 *
+*Baskets :    75881 : Basket Size=    4958720 bytes  Compression=  16.29     *
+*............................................................................*
+*Br    2 :pfPt      : pfPt[nPFpart]/F                                        *
+*Entries :366982 : Total  Size= 2738257778 bytes  File Size  = 2473736479 *
+*Baskets :    75881 : Basket Size=    4958720 bytes  Compression=   1.11     *
+*............................................................................*
+*Br    3 :pfVsPt    : pfVsPt[nPFpart]/F                                      *
+*Entries :366982 : Total  Size= 2738409548 bytes  File Size  = 1459586485 *
+*Baskets :    75881 : Basket Size=    4958720 bytes  Compression=   1.88     *
+*............................................................................*
+*Br    4 :pfVsPtInitial : pfVsPtInitial[nPFpart]/F                           *
+*Entries :366982 : Total  Size= 2738942503 bytes  File Size  = 2570089845 *
+*Baskets :    75897 : Basket Size=    4960256 bytes  Compression=   1.07     *
+*............................................................................*
+*Br    5 :pfArea    : pfArea[nPFpart]/F                                      *
+*Entries :366982 : Total  Size= 2738409548 bytes  File Size  = 2467687442 *
+*Baskets :    75881 : Basket Size=    4958720 bytes  Compression=   1.11     *
+*............................................................................*
+*Br    6 :pfEta     : pfEta[nPFpart]/F                                       *
+*Entries :366982 : Total  Size= 2738333663 bytes  File Size  = 2528290736 *
+*Baskets :    75881 : Basket Size=    4958720 bytes  Compression=   1.08     *
+*............................................................................*
+*Br    7 :pfPhi     : pfPhi[nPFpart]/F                                       *
+*Entries :366982 : Total  Size= 2738333663 bytes  File Size  = 2424775080 *
+*Baskets :    75881 : Basket Size=    4958720 bytes  Compression=   1.13     *
+*............................................................................*
+*Br    8 :vn        : vn[5][15]/F                                            *
+*Entries :   366982 : Total  Size=  110389008 bytes  File Size  =   81129590 *
+*Baskets :     3232 : Basket Size=     219136 bytes  Compression=   1.36     *
+*............................................................................*
+*Br    9 :psin      : vpsi[5][15]/F                                          *
+*Entries :   366982 : Total  Size=  110395480 bytes  File Size  =   83293049 *
+*Baskets :     3232 : Basket Size=     219136 bytes  Compression=   1.32     *
+*............................................................................*
+*Br   10 :sumpt     : sumpt[15]/F                                            * 		<-- is this the sum of the pT? pT of what?
+*Entries :   366982 : Total  Size=   22122810 bytes  File Size  =   20400436 *
+*Baskets :     1102 : Basket Size=      51200 bytes  Compression=   1.08     *
+*............................................................................*

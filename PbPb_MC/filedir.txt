@@ -1,0 +1,656 @@
+TFile**		PbPb_MC_histograms_FromForest_akPu3_anabin_20_eta_20.root	
+ TFile*		PbPb_MC_histograms_FromForest_akPu3_anabin_20_eta_20.root	
+  KEY: TH1F	pthat_oldWeight_cent0;1	
+  KEY: TH1F	pthat_newWeight_cent0;1	
+  KEY: TH1F	hpbpb_gen_R3_20_eta_20_cent0;1	Gen refpt R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_gen_precut_R3_20_eta_20_cent0;1	Gen precut refpt R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_reco_R3_20_eta_20_cent0;1	Reco jtpt R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_reco_precut_R3_20_eta_20_cent0;1	Reco precut jtpt R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_matrix_R3_20_eta_20_cent0;1	Matrix refpt jtpt R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_matrix_HLT_R3_20_eta_20_cent0;1	Matrix refpt jtpt from trigger addition R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_Trans_matrix_HLT_R3_20_eta_20_cent0;1	Matrix refpt jtpt from trigger addition R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_matrix_HLT_GenSmear_R3_20_eta_20_cent0;1	Matrix refpt jtpt from trigger addition R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_matrix_HLT_gen2pSmear_R3_20_eta_20_cent0;1	Matrix refpt jtpt from trigger addition R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_matrix_HLT_RecoSmear_R3_20_eta_20_cent0;1	Matrix refpt jtpt from trigger addition R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_matrix_HLT_BothSmear_R3_20_eta_20_cent0;1	Matrix refpt jtpt from trigger addition R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_matrix_HLT_5TrigIneffSmear_R3_20_eta_20_cent0;1	Matrix refpt jtpt from trigger addition R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_matrix_HLT_10TrigIneffSmear_R3_20_eta_20_cent0;1	Matrix refpt jtpt from trigger addition R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_anaBin_matrix_HLT_R3_20_eta_20_cent0;1	Matrix refpt jtpt from trigger addition R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_anaBin_Trans_matrix_HLT_R3_20_eta_20_cent0;1	Matrix refpt jtpt from trigger addition R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_JetComb_gen_R3_20_eta_20_cent0;1	Gen refpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_JetComb_reco_R3_20_eta_20_cent0;1	reco jtpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_gen_R3_20_eta_20_cent0;1	Gen refpt from Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_reco_R3_20_eta_20_cent0;1	reco jtpt from Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_gen_R3_20_eta_20_cent0;1	Gen refpt from Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_reco_R3_20_eta_20_cent0;1	reco jtpt from Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_gen_R3_20_eta_20_cent0;1	Gen refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_reco_R3_20_eta_20_cent0;1	reco jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_gen_precut_R3_20_eta_20_cent0;1	Gen precut refpt from Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_reco_precut_R3_20_eta_20_cent0;1	reco precut jtpt from Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_gen_precut_R3_20_eta_20_cent0;1	Gen precut refpt from Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_reco_precut_R3_20_eta_20_cent0;1	reco precut jtpt from Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_gen_precut_R3_20_eta_20_cent0;1	Gen precut refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_reco_precut_R3_20_eta_20_cent0;1	reco precut jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_JetComb_GenSmear_R3_20_eta_20_cent0;1	GenSmear refpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_JetComb_gen2pSmear_R3_20_eta_20_cent0;1	gen2pSmear refpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_JetComb_RecoSmear_R3_20_eta_20_cent0;1	RecoSmear jtpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_GenSmear_R3_20_eta_20_cent0;1	GenSmear refpt from Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_gen2pSmear_R3_20_eta_20_cent0;1	gen2pSmear refpt from Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_RecoSmear_R3_20_eta_20_cent0;1	RecoSmear jtpt from Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_GenSmear_R3_20_eta_20_cent0;1	GenSmear refpt from Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_gen2pSmear_R3_20_eta_20_cent0;1	gen2pSmear refpt from Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_RecoSmear_R3_20_eta_20_cent0;1	RecoSmear jtpt from Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_GenSmear_R3_20_eta_20_cent0;1	GenSmear refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_gen2pSmear_R3_20_eta_20_cent0;1	gen2pSmear refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_RecoSmear_R3_20_eta_20_cent0;1	RecoSmear jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_JetComb_gen_5TrigIneff_Smear_R3_20_eta_20_cent0;1	GenSmear refpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_JetComb_reco_5TrigIneff_Smear_R3_20_eta_20_cent0;1	GenSmear refpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_gen_5TrigIneff_Smear_R3_20_eta_20_cent0;1	GenSmear refpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_reco_5TrigIneff_Smear_R3_20_eta_20_cent0;1	GenSmear refpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_JetComb_gen_10TrigIneff_Smear_R3_20_eta_20_cent0;1	GenSmear refpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_JetComb_reco_10TrigIneff_Smear_R3_20_eta_20_cent0;1	GenSmear refpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_gen_10TrigIneff_Smear_R3_20_eta_20_cent0;1	GenSmear refpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_reco_10TrigIneff_Smear_R3_20_eta_20_cent0;1	GenSmear refpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_anaBin_JetComb_gen_R3_20_eta_20_cent0;1	Gen refpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_anaBin_JetComb_reco_R3_20_eta_20_cent0;1	reco jtpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_anaBin_Jet80_gen_R3_20_eta_20_cent0;1	Gen refpt from Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_anaBin_Jet80_reco_R3_20_eta_20_cent0;1	reco jtpt from Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_anaBin_Jet65_gen_R3_20_eta_20_cent0;1	Gen refpt from Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_anaBin_Jet65_reco_R3_20_eta_20_cent0;1	reco jtpt from Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_anaBin_Jet55_gen_R3_20_eta_20_cent0;1	Gen refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_anaBin_Jet55_reco_R3_20_eta_20_cent0;1	reco jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_JetComb_raw_R3_20_eta_20_cent0;1	raw jtpt from HLT trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_raw_R3_20_eta_20_cent0;1	raw jtpt from Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_raw_R3_20_eta_20_cent0;1	raw jtpt from Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_raw_R3_20_eta_20_cent0;1	raw jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_etacent_R3_cent0;1	Eta distribution from Jet80 trigger R3  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_etacent_R3_cent0;1	Eta distribution from Jet65 && !Jet80 trigger R3  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_etacent_R3_cent0;1	Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R3  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_phicent_R3_cent0;1	Phi distribution from Jet80 trigger R3  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_phicent_R3_cent0;1	Phi distribution from Jet65 && !Jet80 trigger R3  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_phicent_R3_cent0;1	Phi distribution from Jet55 && !Jet65 && !Jet80 trigger R3  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_etaprecut_cent_R3_cent0;1	Eta precut distribution from Jet80 trigger R3  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_etaprecut_cent_R3_cent0;1	Eta precut distribution from Jet65 && !Jet80 trigger R3  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_etaprecut_cent_R3_cent0;1	Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet80_phiprecut_cent_R3_cent0;1	Phi precut distribution from Jet80 trigger R3  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet65_phiprecut_cent_R3_cent0;1	Phi precut distribution from Jet65 && !Jet80 trigger R3  0 - 10 cent
+  KEY: TH1F	hpbpb_Jet55_phiprecut_cent_R3_cent0;1	Phi precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3  0 - 10 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_R3_cent0;1	Phi vs Eta distribution from Jet80 trigger R3  0 - 10 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_R3_cent0;1	Phi vs Eta distribution from Jet65 && !Jet80 trigger R3  0 - 10 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_R3_cent0;1	Phi vs Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R3  0 - 10 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_precut_R3_cent0;1	Phi vs Eta precut distribution from Jet80 trigger R3  0 - 10 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_precut_R3_cent0;1	Phi vs Eta precut distribution from Jet65 && !Jet80 trigger R3  0 - 10 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_precut_R3_cent0;1	Phi vs Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3  0 - 10 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_R3_20_eta_20_cent0;1	Matrix for mcclosure refpt jtpt R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_R3_20_eta_20_cent0;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_mcclosure_Trans_matrix_HLT_R3_20_eta_20_cent0;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_5TrigIneff_Smear_R3_20_eta_20_cent0;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20  0 - 10 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_10TrigIneff_Smear_R3_20_eta_20_cent0;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_data_R3_20_eta_20_cent0;1	data for unfolding mc closure test R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_data_train_R3_20_eta_20_cent0;1	data_train for unfolding mc closure test R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_R3_20_eta_20_cent0;1	data for unfolding mc closure test trigger combined  R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_5TrigIneff_Smear_R3_20_eta_20_cent0;1	data for unfolding mc closure test trigger combined  R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_10TrigIneff_Smear_R3_20_eta_20_cent0;1	data for unfolding mc closure test trigger combined  R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet80_data_R3_20_eta_20_cent0;1	data for unfolding mc closure test trigger 80  R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet65_data_R3_20_eta_20_cent0;1	data for unfolding mc closure test trigger 65  R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_R3_20_eta_20_cent0;1	data for unfolding mc closure test trigger 55  R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_5TrigIneff_Smear_R3_20_eta_20_cent0;1	data for unfolding mc closure test trigger 55  R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_10TrigIneff_Smear_R3_20_eta_20_cent0;1	data for unfolding mc closure test trigger 55  R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_train_R3_20_eta_20_cent0;1	data_train for unfolding mc closure test trigger combined  R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet80_data_train_R3_20_eta_20_cent0;1	data_train for unfolding mc closure test trigger 80  R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet65_data_train_R3_20_eta_20_cent0;1	data_train for unfolding mc closure test trigger 65  R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_train_R3_20_eta_20_cent0;1	data_train for unfolding mc closure test trigger 55  R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_R3_20_eta_20_cent0;1	gen spectra for unfolding mc closure test R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_R3_20_eta_20_cent0;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_5TrigIneff_Smear_R3_20_eta_20_cent0;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_10TrigIneff_Smear_R3_20_eta_20_cent0;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet80_R3_20_eta_20_cent0;1	gen spectra for unfolding mc closure test trigger 80 R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet65_R3_20_eta_20_cent0;1	gen spectra for unfolding mc closure test trigger 65 R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_R3_20_eta_20_cent0;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_5TrigIneff_Smear_R3_20_eta_20_cent0;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_10TrigIneff_Smear[_R3_20_eta_20_cent0;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20  0 - 10 cent
+  KEY: TH1F	pthat_oldWeight_cent1;1	
+  KEY: TH1F	pthat_newWeight_cent1;1	
+  KEY: TH1F	hpbpb_gen_R3_20_eta_20_cent1;1	Gen refpt R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_gen_precut_R3_20_eta_20_cent1;1	Gen precut refpt R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_reco_R3_20_eta_20_cent1;1	Reco jtpt R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_reco_precut_R3_20_eta_20_cent1;1	Reco precut jtpt R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_matrix_R3_20_eta_20_cent1;1	Matrix refpt jtpt R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_matrix_HLT_R3_20_eta_20_cent1;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_Trans_matrix_HLT_R3_20_eta_20_cent1;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_matrix_HLT_GenSmear_R3_20_eta_20_cent1;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_matrix_HLT_gen2pSmear_R3_20_eta_20_cent1;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_matrix_HLT_RecoSmear_R3_20_eta_20_cent1;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_matrix_HLT_BothSmear_R3_20_eta_20_cent1;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_matrix_HLT_5TrigIneffSmear_R3_20_eta_20_cent1;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_matrix_HLT_10TrigIneffSmear_R3_20_eta_20_cent1;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_anaBin_matrix_HLT_R3_20_eta_20_cent1;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_anaBin_Trans_matrix_HLT_R3_20_eta_20_cent1;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_JetComb_gen_R3_20_eta_20_cent1;1	Gen refpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_JetComb_reco_R3_20_eta_20_cent1;1	reco jtpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_gen_R3_20_eta_20_cent1;1	Gen refpt from Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_reco_R3_20_eta_20_cent1;1	reco jtpt from Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_gen_R3_20_eta_20_cent1;1	Gen refpt from Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_reco_R3_20_eta_20_cent1;1	reco jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_gen_R3_20_eta_20_cent1;1	Gen refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_reco_R3_20_eta_20_cent1;1	reco jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_gen_precut_R3_20_eta_20_cent1;1	Gen precut refpt from Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_reco_precut_R3_20_eta_20_cent1;1	reco precut jtpt from Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_gen_precut_R3_20_eta_20_cent1;1	Gen precut refpt from Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_reco_precut_R3_20_eta_20_cent1;1	reco precut jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_gen_precut_R3_20_eta_20_cent1;1	Gen precut refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_reco_precut_R3_20_eta_20_cent1;1	reco precut jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_JetComb_GenSmear_R3_20_eta_20_cent1;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_JetComb_gen2pSmear_R3_20_eta_20_cent1;1	gen2pSmear refpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_JetComb_RecoSmear_R3_20_eta_20_cent1;1	RecoSmear jtpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_GenSmear_R3_20_eta_20_cent1;1	GenSmear refpt from Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_gen2pSmear_R3_20_eta_20_cent1;1	gen2pSmear refpt from Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_RecoSmear_R3_20_eta_20_cent1;1	RecoSmear jtpt from Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_GenSmear_R3_20_eta_20_cent1;1	GenSmear refpt from Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_gen2pSmear_R3_20_eta_20_cent1;1	gen2pSmear refpt from Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_RecoSmear_R3_20_eta_20_cent1;1	RecoSmear jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_GenSmear_R3_20_eta_20_cent1;1	GenSmear refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_gen2pSmear_R3_20_eta_20_cent1;1	gen2pSmear refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_RecoSmear_R3_20_eta_20_cent1;1	RecoSmear jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_JetComb_gen_5TrigIneff_Smear_R3_20_eta_20_cent1;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_JetComb_reco_5TrigIneff_Smear_R3_20_eta_20_cent1;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_gen_5TrigIneff_Smear_R3_20_eta_20_cent1;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_reco_5TrigIneff_Smear_R3_20_eta_20_cent1;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_JetComb_gen_10TrigIneff_Smear_R3_20_eta_20_cent1;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_JetComb_reco_10TrigIneff_Smear_R3_20_eta_20_cent1;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_gen_10TrigIneff_Smear_R3_20_eta_20_cent1;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_reco_10TrigIneff_Smear_R3_20_eta_20_cent1;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_anaBin_JetComb_gen_R3_20_eta_20_cent1;1	Gen refpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_anaBin_JetComb_reco_R3_20_eta_20_cent1;1	reco jtpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_anaBin_Jet80_gen_R3_20_eta_20_cent1;1	Gen refpt from Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_anaBin_Jet80_reco_R3_20_eta_20_cent1;1	reco jtpt from Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_anaBin_Jet65_gen_R3_20_eta_20_cent1;1	Gen refpt from Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_anaBin_Jet65_reco_R3_20_eta_20_cent1;1	reco jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_anaBin_Jet55_gen_R3_20_eta_20_cent1;1	Gen refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_anaBin_Jet55_reco_R3_20_eta_20_cent1;1	reco jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_JetComb_raw_R3_20_eta_20_cent1;1	raw jtpt from HLT trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_raw_R3_20_eta_20_cent1;1	raw jtpt from Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_raw_R3_20_eta_20_cent1;1	raw jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_raw_R3_20_eta_20_cent1;1	raw jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_etacent_R3_cent1;1	Eta distribution from Jet80 trigger R3 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_etacent_R3_cent1;1	Eta distribution from Jet65 && !Jet80 trigger R3 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_etacent_R3_cent1;1	Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R3 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_phicent_R3_cent1;1	Phi distribution from Jet80 trigger R3 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_phicent_R3_cent1;1	Phi distribution from Jet65 && !Jet80 trigger R3 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_phicent_R3_cent1;1	Phi distribution from Jet55 && !Jet65 && !Jet80 trigger R3 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_etaprecut_cent_R3_cent1;1	Eta precut distribution from Jet80 trigger R3 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_etaprecut_cent_R3_cent1;1	Eta precut distribution from Jet65 && !Jet80 trigger R3 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_etaprecut_cent_R3_cent1;1	Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet80_phiprecut_cent_R3_cent1;1	Phi precut distribution from Jet80 trigger R3 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet65_phiprecut_cent_R3_cent1;1	Phi precut distribution from Jet65 && !Jet80 trigger R3 10 - 20 cent
+  KEY: TH1F	hpbpb_Jet55_phiprecut_cent_R3_cent1;1	Phi precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 10 - 20 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_R3_cent1;1	Phi vs Eta distribution from Jet80 trigger R3 10 - 20 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_R3_cent1;1	Phi vs Eta distribution from Jet65 && !Jet80 trigger R3 10 - 20 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_R3_cent1;1	Phi vs Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R3 10 - 20 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_precut_R3_cent1;1	Phi vs Eta precut distribution from Jet80 trigger R3 10 - 20 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_precut_R3_cent1;1	Phi vs Eta precut distribution from Jet65 && !Jet80 trigger R3 10 - 20 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_precut_R3_cent1;1	Phi vs Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 10 - 20 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_R3_20_eta_20_cent1;1	Matrix for mcclosure refpt jtpt R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_R3_20_eta_20_cent1;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_mcclosure_Trans_matrix_HLT_R3_20_eta_20_cent1;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_5TrigIneff_Smear_R3_20_eta_20_cent1;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 10 - 20 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_10TrigIneff_Smear_R3_20_eta_20_cent1;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_data_R3_20_eta_20_cent1;1	data for unfolding mc closure test R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_data_train_R3_20_eta_20_cent1;1	data_train for unfolding mc closure test R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_R3_20_eta_20_cent1;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_5TrigIneff_Smear_R3_20_eta_20_cent1;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_10TrigIneff_Smear_R3_20_eta_20_cent1;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet80_data_R3_20_eta_20_cent1;1	data for unfolding mc closure test trigger 80  R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet65_data_R3_20_eta_20_cent1;1	data for unfolding mc closure test trigger 65  R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_R3_20_eta_20_cent1;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_5TrigIneff_Smear_R3_20_eta_20_cent1;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_10TrigIneff_Smear_R3_20_eta_20_cent1;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_train_R3_20_eta_20_cent1;1	data_train for unfolding mc closure test trigger combined  R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet80_data_train_R3_20_eta_20_cent1;1	data_train for unfolding mc closure test trigger 80  R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet65_data_train_R3_20_eta_20_cent1;1	data_train for unfolding mc closure test trigger 65  R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_train_R3_20_eta_20_cent1;1	data_train for unfolding mc closure test trigger 55  R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_R3_20_eta_20_cent1;1	gen spectra for unfolding mc closure test R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_R3_20_eta_20_cent1;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_5TrigIneff_Smear_R3_20_eta_20_cent1;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_10TrigIneff_Smear_R3_20_eta_20_cent1;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet80_R3_20_eta_20_cent1;1	gen spectra for unfolding mc closure test trigger 80 R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet65_R3_20_eta_20_cent1;1	gen spectra for unfolding mc closure test trigger 65 R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_R3_20_eta_20_cent1;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_5TrigIneff_Smear_R3_20_eta_20_cent1;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_10TrigIneff_Smear[_R3_20_eta_20_cent1;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 10 - 20 cent
+  KEY: TH1F	pthat_oldWeight_cent2;1	
+  KEY: TH1F	pthat_newWeight_cent2;1	
+  KEY: TH1F	hpbpb_gen_R3_20_eta_20_cent2;1	Gen refpt R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_gen_precut_R3_20_eta_20_cent2;1	Gen precut refpt R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_reco_R3_20_eta_20_cent2;1	Reco jtpt R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_reco_precut_R3_20_eta_20_cent2;1	Reco precut jtpt R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_matrix_R3_20_eta_20_cent2;1	Matrix refpt jtpt R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_matrix_HLT_R3_20_eta_20_cent2;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_Trans_matrix_HLT_R3_20_eta_20_cent2;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_matrix_HLT_GenSmear_R3_20_eta_20_cent2;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_matrix_HLT_gen2pSmear_R3_20_eta_20_cent2;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_matrix_HLT_RecoSmear_R3_20_eta_20_cent2;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_matrix_HLT_BothSmear_R3_20_eta_20_cent2;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_matrix_HLT_5TrigIneffSmear_R3_20_eta_20_cent2;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_matrix_HLT_10TrigIneffSmear_R3_20_eta_20_cent2;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_anaBin_matrix_HLT_R3_20_eta_20_cent2;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_anaBin_Trans_matrix_HLT_R3_20_eta_20_cent2;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_JetComb_gen_R3_20_eta_20_cent2;1	Gen refpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_JetComb_reco_R3_20_eta_20_cent2;1	reco jtpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_gen_R3_20_eta_20_cent2;1	Gen refpt from Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_reco_R3_20_eta_20_cent2;1	reco jtpt from Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_gen_R3_20_eta_20_cent2;1	Gen refpt from Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_reco_R3_20_eta_20_cent2;1	reco jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_gen_R3_20_eta_20_cent2;1	Gen refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_reco_R3_20_eta_20_cent2;1	reco jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_gen_precut_R3_20_eta_20_cent2;1	Gen precut refpt from Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_reco_precut_R3_20_eta_20_cent2;1	reco precut jtpt from Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_gen_precut_R3_20_eta_20_cent2;1	Gen precut refpt from Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_reco_precut_R3_20_eta_20_cent2;1	reco precut jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_gen_precut_R3_20_eta_20_cent2;1	Gen precut refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_reco_precut_R3_20_eta_20_cent2;1	reco precut jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_JetComb_GenSmear_R3_20_eta_20_cent2;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_JetComb_gen2pSmear_R3_20_eta_20_cent2;1	gen2pSmear refpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_JetComb_RecoSmear_R3_20_eta_20_cent2;1	RecoSmear jtpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_GenSmear_R3_20_eta_20_cent2;1	GenSmear refpt from Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_gen2pSmear_R3_20_eta_20_cent2;1	gen2pSmear refpt from Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_RecoSmear_R3_20_eta_20_cent2;1	RecoSmear jtpt from Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_GenSmear_R3_20_eta_20_cent2;1	GenSmear refpt from Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_gen2pSmear_R3_20_eta_20_cent2;1	gen2pSmear refpt from Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_RecoSmear_R3_20_eta_20_cent2;1	RecoSmear jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_GenSmear_R3_20_eta_20_cent2;1	GenSmear refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_gen2pSmear_R3_20_eta_20_cent2;1	gen2pSmear refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_RecoSmear_R3_20_eta_20_cent2;1	RecoSmear jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_JetComb_gen_5TrigIneff_Smear_R3_20_eta_20_cent2;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_JetComb_reco_5TrigIneff_Smear_R3_20_eta_20_cent2;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_gen_5TrigIneff_Smear_R3_20_eta_20_cent2;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_reco_5TrigIneff_Smear_R3_20_eta_20_cent2;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_JetComb_gen_10TrigIneff_Smear_R3_20_eta_20_cent2;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_JetComb_reco_10TrigIneff_Smear_R3_20_eta_20_cent2;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_gen_10TrigIneff_Smear_R3_20_eta_20_cent2;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_reco_10TrigIneff_Smear_R3_20_eta_20_cent2;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_anaBin_JetComb_gen_R3_20_eta_20_cent2;1	Gen refpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_anaBin_JetComb_reco_R3_20_eta_20_cent2;1	reco jtpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_anaBin_Jet80_gen_R3_20_eta_20_cent2;1	Gen refpt from Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_anaBin_Jet80_reco_R3_20_eta_20_cent2;1	reco jtpt from Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_anaBin_Jet65_gen_R3_20_eta_20_cent2;1	Gen refpt from Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_anaBin_Jet65_reco_R3_20_eta_20_cent2;1	reco jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_anaBin_Jet55_gen_R3_20_eta_20_cent2;1	Gen refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_anaBin_Jet55_reco_R3_20_eta_20_cent2;1	reco jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_JetComb_raw_R3_20_eta_20_cent2;1	raw jtpt from HLT trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_raw_R3_20_eta_20_cent2;1	raw jtpt from Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_raw_R3_20_eta_20_cent2;1	raw jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_raw_R3_20_eta_20_cent2;1	raw jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_etacent_R3_cent2;1	Eta distribution from Jet80 trigger R3 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_etacent_R3_cent2;1	Eta distribution from Jet65 && !Jet80 trigger R3 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_etacent_R3_cent2;1	Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R3 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_phicent_R3_cent2;1	Phi distribution from Jet80 trigger R3 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_phicent_R3_cent2;1	Phi distribution from Jet65 && !Jet80 trigger R3 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_phicent_R3_cent2;1	Phi distribution from Jet55 && !Jet65 && !Jet80 trigger R3 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_etaprecut_cent_R3_cent2;1	Eta precut distribution from Jet80 trigger R3 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_etaprecut_cent_R3_cent2;1	Eta precut distribution from Jet65 && !Jet80 trigger R3 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_etaprecut_cent_R3_cent2;1	Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet80_phiprecut_cent_R3_cent2;1	Phi precut distribution from Jet80 trigger R3 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet65_phiprecut_cent_R3_cent2;1	Phi precut distribution from Jet65 && !Jet80 trigger R3 20 - 60 cent
+  KEY: TH1F	hpbpb_Jet55_phiprecut_cent_R3_cent2;1	Phi precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 20 - 60 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_R3_cent2;1	Phi vs Eta distribution from Jet80 trigger R3 20 - 60 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_R3_cent2;1	Phi vs Eta distribution from Jet65 && !Jet80 trigger R3 20 - 60 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_R3_cent2;1	Phi vs Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R3 20 - 60 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_precut_R3_cent2;1	Phi vs Eta precut distribution from Jet80 trigger R3 20 - 60 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_precut_R3_cent2;1	Phi vs Eta precut distribution from Jet65 && !Jet80 trigger R3 20 - 60 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_precut_R3_cent2;1	Phi vs Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 20 - 60 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_R3_20_eta_20_cent2;1	Matrix for mcclosure refpt jtpt R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_R3_20_eta_20_cent2;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_mcclosure_Trans_matrix_HLT_R3_20_eta_20_cent2;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_5TrigIneff_Smear_R3_20_eta_20_cent2;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 20 - 60 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_10TrigIneff_Smear_R3_20_eta_20_cent2;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_data_R3_20_eta_20_cent2;1	data for unfolding mc closure test R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_data_train_R3_20_eta_20_cent2;1	data_train for unfolding mc closure test R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_R3_20_eta_20_cent2;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_5TrigIneff_Smear_R3_20_eta_20_cent2;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_10TrigIneff_Smear_R3_20_eta_20_cent2;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet80_data_R3_20_eta_20_cent2;1	data for unfolding mc closure test trigger 80  R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet65_data_R3_20_eta_20_cent2;1	data for unfolding mc closure test trigger 65  R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_R3_20_eta_20_cent2;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_5TrigIneff_Smear_R3_20_eta_20_cent2;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_10TrigIneff_Smear_R3_20_eta_20_cent2;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_train_R3_20_eta_20_cent2;1	data_train for unfolding mc closure test trigger combined  R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet80_data_train_R3_20_eta_20_cent2;1	data_train for unfolding mc closure test trigger 80  R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet65_data_train_R3_20_eta_20_cent2;1	data_train for unfolding mc closure test trigger 65  R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_train_R3_20_eta_20_cent2;1	data_train for unfolding mc closure test trigger 55  R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_R3_20_eta_20_cent2;1	gen spectra for unfolding mc closure test R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_R3_20_eta_20_cent2;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_5TrigIneff_Smear_R3_20_eta_20_cent2;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_10TrigIneff_Smear_R3_20_eta_20_cent2;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet80_R3_20_eta_20_cent2;1	gen spectra for unfolding mc closure test trigger 80 R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet65_R3_20_eta_20_cent2;1	gen spectra for unfolding mc closure test trigger 65 R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_R3_20_eta_20_cent2;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_5TrigIneff_Smear_R3_20_eta_20_cent2;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_10TrigIneff_Smear[_R3_20_eta_20_cent2;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 20 - 60 cent
+  KEY: TH1F	pthat_oldWeight_cent3;1	
+  KEY: TH1F	pthat_newWeight_cent3;1	
+  KEY: TH1F	hpbpb_gen_R3_20_eta_20_cent3;1	Gen refpt R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_gen_precut_R3_20_eta_20_cent3;1	Gen precut refpt R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_reco_R3_20_eta_20_cent3;1	Reco jtpt R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_reco_precut_R3_20_eta_20_cent3;1	Reco precut jtpt R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_matrix_R3_20_eta_20_cent3;1	Matrix refpt jtpt R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_matrix_HLT_R3_20_eta_20_cent3;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_Trans_matrix_HLT_R3_20_eta_20_cent3;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_matrix_HLT_GenSmear_R3_20_eta_20_cent3;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_matrix_HLT_gen2pSmear_R3_20_eta_20_cent3;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_matrix_HLT_RecoSmear_R3_20_eta_20_cent3;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_matrix_HLT_BothSmear_R3_20_eta_20_cent3;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_matrix_HLT_5TrigIneffSmear_R3_20_eta_20_cent3;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_matrix_HLT_10TrigIneffSmear_R3_20_eta_20_cent3;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_anaBin_matrix_HLT_R3_20_eta_20_cent3;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_anaBin_Trans_matrix_HLT_R3_20_eta_20_cent3;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_JetComb_gen_R3_20_eta_20_cent3;1	Gen refpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_JetComb_reco_R3_20_eta_20_cent3;1	reco jtpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_gen_R3_20_eta_20_cent3;1	Gen refpt from Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_reco_R3_20_eta_20_cent3;1	reco jtpt from Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_gen_R3_20_eta_20_cent3;1	Gen refpt from Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_reco_R3_20_eta_20_cent3;1	reco jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_gen_R3_20_eta_20_cent3;1	Gen refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_reco_R3_20_eta_20_cent3;1	reco jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_gen_precut_R3_20_eta_20_cent3;1	Gen precut refpt from Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_reco_precut_R3_20_eta_20_cent3;1	reco precut jtpt from Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_gen_precut_R3_20_eta_20_cent3;1	Gen precut refpt from Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_reco_precut_R3_20_eta_20_cent3;1	reco precut jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_gen_precut_R3_20_eta_20_cent3;1	Gen precut refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_reco_precut_R3_20_eta_20_cent3;1	reco precut jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_JetComb_GenSmear_R3_20_eta_20_cent3;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_JetComb_gen2pSmear_R3_20_eta_20_cent3;1	gen2pSmear refpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_JetComb_RecoSmear_R3_20_eta_20_cent3;1	RecoSmear jtpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_GenSmear_R3_20_eta_20_cent3;1	GenSmear refpt from Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_gen2pSmear_R3_20_eta_20_cent3;1	gen2pSmear refpt from Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_RecoSmear_R3_20_eta_20_cent3;1	RecoSmear jtpt from Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_GenSmear_R3_20_eta_20_cent3;1	GenSmear refpt from Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_gen2pSmear_R3_20_eta_20_cent3;1	gen2pSmear refpt from Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_RecoSmear_R3_20_eta_20_cent3;1	RecoSmear jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_GenSmear_R3_20_eta_20_cent3;1	GenSmear refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_gen2pSmear_R3_20_eta_20_cent3;1	gen2pSmear refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_RecoSmear_R3_20_eta_20_cent3;1	RecoSmear jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_JetComb_gen_5TrigIneff_Smear_R3_20_eta_20_cent3;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_JetComb_reco_5TrigIneff_Smear_R3_20_eta_20_cent3;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_gen_5TrigIneff_Smear_R3_20_eta_20_cent3;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_reco_5TrigIneff_Smear_R3_20_eta_20_cent3;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_JetComb_gen_10TrigIneff_Smear_R3_20_eta_20_cent3;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_JetComb_reco_10TrigIneff_Smear_R3_20_eta_20_cent3;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_gen_10TrigIneff_Smear_R3_20_eta_20_cent3;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_reco_10TrigIneff_Smear_R3_20_eta_20_cent3;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_anaBin_JetComb_gen_R3_20_eta_20_cent3;1	Gen refpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_anaBin_JetComb_reco_R3_20_eta_20_cent3;1	reco jtpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_anaBin_Jet80_gen_R3_20_eta_20_cent3;1	Gen refpt from Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_anaBin_Jet80_reco_R3_20_eta_20_cent3;1	reco jtpt from Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_anaBin_Jet65_gen_R3_20_eta_20_cent3;1	Gen refpt from Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_anaBin_Jet65_reco_R3_20_eta_20_cent3;1	reco jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_anaBin_Jet55_gen_R3_20_eta_20_cent3;1	Gen refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_anaBin_Jet55_reco_R3_20_eta_20_cent3;1	reco jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_JetComb_raw_R3_20_eta_20_cent3;1	raw jtpt from HLT trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_raw_R3_20_eta_20_cent3;1	raw jtpt from Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_raw_R3_20_eta_20_cent3;1	raw jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_raw_R3_20_eta_20_cent3;1	raw jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_etacent_R3_cent3;1	Eta distribution from Jet80 trigger R3 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_etacent_R3_cent3;1	Eta distribution from Jet65 && !Jet80 trigger R3 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_etacent_R3_cent3;1	Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R3 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_phicent_R3_cent3;1	Phi distribution from Jet80 trigger R3 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_phicent_R3_cent3;1	Phi distribution from Jet65 && !Jet80 trigger R3 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_phicent_R3_cent3;1	Phi distribution from Jet55 && !Jet65 && !Jet80 trigger R3 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_etaprecut_cent_R3_cent3;1	Eta precut distribution from Jet80 trigger R3 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_etaprecut_cent_R3_cent3;1	Eta precut distribution from Jet65 && !Jet80 trigger R3 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_etaprecut_cent_R3_cent3;1	Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet80_phiprecut_cent_R3_cent3;1	Phi precut distribution from Jet80 trigger R3 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet65_phiprecut_cent_R3_cent3;1	Phi precut distribution from Jet65 && !Jet80 trigger R3 60 - 100 cent
+  KEY: TH1F	hpbpb_Jet55_phiprecut_cent_R3_cent3;1	Phi precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 60 - 100 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_R3_cent3;1	Phi vs Eta distribution from Jet80 trigger R3 60 - 100 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_R3_cent3;1	Phi vs Eta distribution from Jet65 && !Jet80 trigger R3 60 - 100 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_R3_cent3;1	Phi vs Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R3 60 - 100 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_precut_R3_cent3;1	Phi vs Eta precut distribution from Jet80 trigger R3 60 - 100 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_precut_R3_cent3;1	Phi vs Eta precut distribution from Jet65 && !Jet80 trigger R3 60 - 100 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_precut_R3_cent3;1	Phi vs Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 60 - 100 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_R3_20_eta_20_cent3;1	Matrix for mcclosure refpt jtpt R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_R3_20_eta_20_cent3;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_mcclosure_Trans_matrix_HLT_R3_20_eta_20_cent3;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_5TrigIneff_Smear_R3_20_eta_20_cent3;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 60 - 100 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_10TrigIneff_Smear_R3_20_eta_20_cent3;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_data_R3_20_eta_20_cent3;1	data for unfolding mc closure test R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_data_train_R3_20_eta_20_cent3;1	data_train for unfolding mc closure test R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_R3_20_eta_20_cent3;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_5TrigIneff_Smear_R3_20_eta_20_cent3;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_10TrigIneff_Smear_R3_20_eta_20_cent3;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet80_data_R3_20_eta_20_cent3;1	data for unfolding mc closure test trigger 80  R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet65_data_R3_20_eta_20_cent3;1	data for unfolding mc closure test trigger 65  R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_R3_20_eta_20_cent3;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_5TrigIneff_Smear_R3_20_eta_20_cent3;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_10TrigIneff_Smear_R3_20_eta_20_cent3;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_train_R3_20_eta_20_cent3;1	data_train for unfolding mc closure test trigger combined  R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet80_data_train_R3_20_eta_20_cent3;1	data_train for unfolding mc closure test trigger 80  R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet65_data_train_R3_20_eta_20_cent3;1	data_train for unfolding mc closure test trigger 65  R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_train_R3_20_eta_20_cent3;1	data_train for unfolding mc closure test trigger 55  R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_R3_20_eta_20_cent3;1	gen spectra for unfolding mc closure test R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_R3_20_eta_20_cent3;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_5TrigIneff_Smear_R3_20_eta_20_cent3;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_10TrigIneff_Smear_R3_20_eta_20_cent3;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet80_R3_20_eta_20_cent3;1	gen spectra for unfolding mc closure test trigger 80 R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet65_R3_20_eta_20_cent3;1	gen spectra for unfolding mc closure test trigger 65 R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_R3_20_eta_20_cent3;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_5TrigIneff_Smear_R3_20_eta_20_cent3;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_10TrigIneff_Smear[_R3_20_eta_20_cent3;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 60 - 100 cent
+  KEY: TH1F	pthat_oldWeight_cent4;1	
+  KEY: TH1F	pthat_newWeight_cent4;1	
+  KEY: TH1F	hpbpb_gen_R3_20_eta_20_cent4;1	Gen refpt R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_gen_precut_R3_20_eta_20_cent4;1	Gen precut refpt R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_reco_R3_20_eta_20_cent4;1	Reco jtpt R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_reco_precut_R3_20_eta_20_cent4;1	Reco precut jtpt R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_matrix_R3_20_eta_20_cent4;1	Matrix refpt jtpt R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_matrix_HLT_R3_20_eta_20_cent4;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_Trans_matrix_HLT_R3_20_eta_20_cent4;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_matrix_HLT_GenSmear_R3_20_eta_20_cent4;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_matrix_HLT_gen2pSmear_R3_20_eta_20_cent4;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_matrix_HLT_RecoSmear_R3_20_eta_20_cent4;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_matrix_HLT_BothSmear_R3_20_eta_20_cent4;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_matrix_HLT_5TrigIneffSmear_R3_20_eta_20_cent4;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_matrix_HLT_10TrigIneffSmear_R3_20_eta_20_cent4;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_anaBin_matrix_HLT_R3_20_eta_20_cent4;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_anaBin_Trans_matrix_HLT_R3_20_eta_20_cent4;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_JetComb_gen_R3_20_eta_20_cent4;1	Gen refpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_JetComb_reco_R3_20_eta_20_cent4;1	reco jtpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_gen_R3_20_eta_20_cent4;1	Gen refpt from Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_reco_R3_20_eta_20_cent4;1	reco jtpt from Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_gen_R3_20_eta_20_cent4;1	Gen refpt from Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_reco_R3_20_eta_20_cent4;1	reco jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_gen_R3_20_eta_20_cent4;1	Gen refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_reco_R3_20_eta_20_cent4;1	reco jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_gen_precut_R3_20_eta_20_cent4;1	Gen precut refpt from Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_reco_precut_R3_20_eta_20_cent4;1	reco precut jtpt from Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_gen_precut_R3_20_eta_20_cent4;1	Gen precut refpt from Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_reco_precut_R3_20_eta_20_cent4;1	reco precut jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_gen_precut_R3_20_eta_20_cent4;1	Gen precut refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_reco_precut_R3_20_eta_20_cent4;1	reco precut jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_JetComb_GenSmear_R3_20_eta_20_cent4;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_JetComb_gen2pSmear_R3_20_eta_20_cent4;1	gen2pSmear refpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_JetComb_RecoSmear_R3_20_eta_20_cent4;1	RecoSmear jtpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_GenSmear_R3_20_eta_20_cent4;1	GenSmear refpt from Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_gen2pSmear_R3_20_eta_20_cent4;1	gen2pSmear refpt from Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_RecoSmear_R3_20_eta_20_cent4;1	RecoSmear jtpt from Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_GenSmear_R3_20_eta_20_cent4;1	GenSmear refpt from Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_gen2pSmear_R3_20_eta_20_cent4;1	gen2pSmear refpt from Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_RecoSmear_R3_20_eta_20_cent4;1	RecoSmear jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_GenSmear_R3_20_eta_20_cent4;1	GenSmear refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_gen2pSmear_R3_20_eta_20_cent4;1	gen2pSmear refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_RecoSmear_R3_20_eta_20_cent4;1	RecoSmear jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_JetComb_gen_5TrigIneff_Smear_R3_20_eta_20_cent4;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_JetComb_reco_5TrigIneff_Smear_R3_20_eta_20_cent4;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_gen_5TrigIneff_Smear_R3_20_eta_20_cent4;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_reco_5TrigIneff_Smear_R3_20_eta_20_cent4;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_JetComb_gen_10TrigIneff_Smear_R3_20_eta_20_cent4;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_JetComb_reco_10TrigIneff_Smear_R3_20_eta_20_cent4;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_gen_10TrigIneff_Smear_R3_20_eta_20_cent4;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_reco_10TrigIneff_Smear_R3_20_eta_20_cent4;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_anaBin_JetComb_gen_R3_20_eta_20_cent4;1	Gen refpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_anaBin_JetComb_reco_R3_20_eta_20_cent4;1	reco jtpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_anaBin_Jet80_gen_R3_20_eta_20_cent4;1	Gen refpt from Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_anaBin_Jet80_reco_R3_20_eta_20_cent4;1	reco jtpt from Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_anaBin_Jet65_gen_R3_20_eta_20_cent4;1	Gen refpt from Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_anaBin_Jet65_reco_R3_20_eta_20_cent4;1	reco jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_anaBin_Jet55_gen_R3_20_eta_20_cent4;1	Gen refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_anaBin_Jet55_reco_R3_20_eta_20_cent4;1	reco jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_JetComb_raw_R3_20_eta_20_cent4;1	raw jtpt from HLT trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_raw_R3_20_eta_20_cent4;1	raw jtpt from Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_raw_R3_20_eta_20_cent4;1	raw jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_raw_R3_20_eta_20_cent4;1	raw jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_etacent_R3_cent4;1	Eta distribution from Jet80 trigger R3 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_etacent_R3_cent4;1	Eta distribution from Jet65 && !Jet80 trigger R3 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_etacent_R3_cent4;1	Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R3 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_phicent_R3_cent4;1	Phi distribution from Jet80 trigger R3 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_phicent_R3_cent4;1	Phi distribution from Jet65 && !Jet80 trigger R3 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_phicent_R3_cent4;1	Phi distribution from Jet55 && !Jet65 && !Jet80 trigger R3 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_etaprecut_cent_R3_cent4;1	Eta precut distribution from Jet80 trigger R3 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_etaprecut_cent_R3_cent4;1	Eta precut distribution from Jet65 && !Jet80 trigger R3 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_etaprecut_cent_R3_cent4;1	Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet80_phiprecut_cent_R3_cent4;1	Phi precut distribution from Jet80 trigger R3 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet65_phiprecut_cent_R3_cent4;1	Phi precut distribution from Jet65 && !Jet80 trigger R3 100 - 140 cent
+  KEY: TH1F	hpbpb_Jet55_phiprecut_cent_R3_cent4;1	Phi precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 100 - 140 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_R3_cent4;1	Phi vs Eta distribution from Jet80 trigger R3 100 - 140 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_R3_cent4;1	Phi vs Eta distribution from Jet65 && !Jet80 trigger R3 100 - 140 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_R3_cent4;1	Phi vs Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R3 100 - 140 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_precut_R3_cent4;1	Phi vs Eta precut distribution from Jet80 trigger R3 100 - 140 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_precut_R3_cent4;1	Phi vs Eta precut distribution from Jet65 && !Jet80 trigger R3 100 - 140 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_precut_R3_cent4;1	Phi vs Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 100 - 140 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_R3_20_eta_20_cent4;1	Matrix for mcclosure refpt jtpt R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_R3_20_eta_20_cent4;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_mcclosure_Trans_matrix_HLT_R3_20_eta_20_cent4;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_5TrigIneff_Smear_R3_20_eta_20_cent4;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 100 - 140 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_10TrigIneff_Smear_R3_20_eta_20_cent4;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_data_R3_20_eta_20_cent4;1	data for unfolding mc closure test R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_data_train_R3_20_eta_20_cent4;1	data_train for unfolding mc closure test R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_R3_20_eta_20_cent4;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_5TrigIneff_Smear_R3_20_eta_20_cent4;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_10TrigIneff_Smear_R3_20_eta_20_cent4;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet80_data_R3_20_eta_20_cent4;1	data for unfolding mc closure test trigger 80  R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet65_data_R3_20_eta_20_cent4;1	data for unfolding mc closure test trigger 65  R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_R3_20_eta_20_cent4;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_5TrigIneff_Smear_R3_20_eta_20_cent4;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_10TrigIneff_Smear_R3_20_eta_20_cent4;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_train_R3_20_eta_20_cent4;1	data_train for unfolding mc closure test trigger combined  R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet80_data_train_R3_20_eta_20_cent4;1	data_train for unfolding mc closure test trigger 80  R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet65_data_train_R3_20_eta_20_cent4;1	data_train for unfolding mc closure test trigger 65  R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_train_R3_20_eta_20_cent4;1	data_train for unfolding mc closure test trigger 55  R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_R3_20_eta_20_cent4;1	gen spectra for unfolding mc closure test R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_R3_20_eta_20_cent4;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_5TrigIneff_Smear_R3_20_eta_20_cent4;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_10TrigIneff_Smear_R3_20_eta_20_cent4;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet80_R3_20_eta_20_cent4;1	gen spectra for unfolding mc closure test trigger 80 R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet65_R3_20_eta_20_cent4;1	gen spectra for unfolding mc closure test trigger 65 R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_R3_20_eta_20_cent4;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_5TrigIneff_Smear_R3_20_eta_20_cent4;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_10TrigIneff_Smear[_R3_20_eta_20_cent4;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 100 - 140 cent
+  KEY: TH1F	pthat_oldWeight_cent5;1	
+  KEY: TH1F	pthat_newWeight_cent5;1	
+  KEY: TH1F	hpbpb_gen_R3_20_eta_20_cent5;1	Gen refpt R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_gen_precut_R3_20_eta_20_cent5;1	Gen precut refpt R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_reco_R3_20_eta_20_cent5;1	Reco jtpt R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_reco_precut_R3_20_eta_20_cent5;1	Reco precut jtpt R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_matrix_R3_20_eta_20_cent5;1	Matrix refpt jtpt R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_matrix_HLT_R3_20_eta_20_cent5;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_Trans_matrix_HLT_R3_20_eta_20_cent5;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_matrix_HLT_GenSmear_R3_20_eta_20_cent5;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_matrix_HLT_gen2pSmear_R3_20_eta_20_cent5;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_matrix_HLT_RecoSmear_R3_20_eta_20_cent5;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_matrix_HLT_BothSmear_R3_20_eta_20_cent5;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_matrix_HLT_5TrigIneffSmear_R3_20_eta_20_cent5;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_matrix_HLT_10TrigIneffSmear_R3_20_eta_20_cent5;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_anaBin_matrix_HLT_R3_20_eta_20_cent5;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_anaBin_Trans_matrix_HLT_R3_20_eta_20_cent5;1	Matrix refpt jtpt from trigger addition R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_JetComb_gen_R3_20_eta_20_cent5;1	Gen refpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_JetComb_reco_R3_20_eta_20_cent5;1	reco jtpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_gen_R3_20_eta_20_cent5;1	Gen refpt from Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_reco_R3_20_eta_20_cent5;1	reco jtpt from Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_gen_R3_20_eta_20_cent5;1	Gen refpt from Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_reco_R3_20_eta_20_cent5;1	reco jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_gen_R3_20_eta_20_cent5;1	Gen refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_reco_R3_20_eta_20_cent5;1	reco jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_gen_precut_R3_20_eta_20_cent5;1	Gen precut refpt from Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_reco_precut_R3_20_eta_20_cent5;1	reco precut jtpt from Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_gen_precut_R3_20_eta_20_cent5;1	Gen precut refpt from Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_reco_precut_R3_20_eta_20_cent5;1	reco precut jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_gen_precut_R3_20_eta_20_cent5;1	Gen precut refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_reco_precut_R3_20_eta_20_cent5;1	reco precut jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_JetComb_GenSmear_R3_20_eta_20_cent5;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_JetComb_gen2pSmear_R3_20_eta_20_cent5;1	gen2pSmear refpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_JetComb_RecoSmear_R3_20_eta_20_cent5;1	RecoSmear jtpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_GenSmear_R3_20_eta_20_cent5;1	GenSmear refpt from Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_gen2pSmear_R3_20_eta_20_cent5;1	gen2pSmear refpt from Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_RecoSmear_R3_20_eta_20_cent5;1	RecoSmear jtpt from Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_GenSmear_R3_20_eta_20_cent5;1	GenSmear refpt from Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_gen2pSmear_R3_20_eta_20_cent5;1	gen2pSmear refpt from Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_RecoSmear_R3_20_eta_20_cent5;1	RecoSmear jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_GenSmear_R3_20_eta_20_cent5;1	GenSmear refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_gen2pSmear_R3_20_eta_20_cent5;1	gen2pSmear refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_RecoSmear_R3_20_eta_20_cent5;1	RecoSmear jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_JetComb_gen_5TrigIneff_Smear_R3_20_eta_20_cent5;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_JetComb_reco_5TrigIneff_Smear_R3_20_eta_20_cent5;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_gen_5TrigIneff_Smear_R3_20_eta_20_cent5;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_reco_5TrigIneff_Smear_R3_20_eta_20_cent5;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_JetComb_gen_10TrigIneff_Smear_R3_20_eta_20_cent5;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_JetComb_reco_10TrigIneff_Smear_R3_20_eta_20_cent5;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_gen_10TrigIneff_Smear_R3_20_eta_20_cent5;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_reco_10TrigIneff_Smear_R3_20_eta_20_cent5;1	GenSmear refpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_anaBin_JetComb_gen_R3_20_eta_20_cent5;1	Gen refpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_anaBin_JetComb_reco_R3_20_eta_20_cent5;1	reco jtpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_anaBin_Jet80_gen_R3_20_eta_20_cent5;1	Gen refpt from Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_anaBin_Jet80_reco_R3_20_eta_20_cent5;1	reco jtpt from Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_anaBin_Jet65_gen_R3_20_eta_20_cent5;1	Gen refpt from Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_anaBin_Jet65_reco_R3_20_eta_20_cent5;1	reco jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_anaBin_Jet55_gen_R3_20_eta_20_cent5;1	Gen refpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_anaBin_Jet55_reco_R3_20_eta_20_cent5;1	reco jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_JetComb_raw_R3_20_eta_20_cent5;1	raw jtpt from HLT trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_raw_R3_20_eta_20_cent5;1	raw jtpt from Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_raw_R3_20_eta_20_cent5;1	raw jtpt from Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_raw_R3_20_eta_20_cent5;1	raw jtpt from Jet55 && !Jet65 && !Jet80 trigger R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_etacent_R3_cent5;1	Eta distribution from Jet80 trigger R3 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_etacent_R3_cent5;1	Eta distribution from Jet65 && !Jet80 trigger R3 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_etacent_R3_cent5;1	Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R3 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_phicent_R3_cent5;1	Phi distribution from Jet80 trigger R3 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_phicent_R3_cent5;1	Phi distribution from Jet65 && !Jet80 trigger R3 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_phicent_R3_cent5;1	Phi distribution from Jet55 && !Jet65 && !Jet80 trigger R3 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_etaprecut_cent_R3_cent5;1	Eta precut distribution from Jet80 trigger R3 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_etaprecut_cent_R3_cent5;1	Eta precut distribution from Jet65 && !Jet80 trigger R3 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_etaprecut_cent_R3_cent5;1	Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet80_phiprecut_cent_R3_cent5;1	Phi precut distribution from Jet80 trigger R3 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet65_phiprecut_cent_R3_cent5;1	Phi precut distribution from Jet65 && !Jet80 trigger R3 140 - 180 cent
+  KEY: TH1F	hpbpb_Jet55_phiprecut_cent_R3_cent5;1	Phi precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 140 - 180 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_R3_cent5;1	Phi vs Eta distribution from Jet80 trigger R3 140 - 180 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_R3_cent5;1	Phi vs Eta distribution from Jet65 && !Jet80 trigger R3 140 - 180 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_R3_cent5;1	Phi vs Eta distribution from Jet55 && !Jet65 && !Jet80 trigger R3 140 - 180 cent
+  KEY: TH2F	hpbpb_Jet80_phieta_precut_R3_cent5;1	Phi vs Eta precut distribution from Jet80 trigger R3 140 - 180 cent
+  KEY: TH2F	hpbpb_Jet65_phieta_precut_R3_cent5;1	Phi vs Eta precut distribution from Jet65 && !Jet80 trigger R3 140 - 180 cent
+  KEY: TH2F	hpbpb_Jet55_phieta_precut_R3_cent5;1	Phi vs Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R3 140 - 180 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_R3_20_eta_20_cent5;1	Matrix for mcclosure refpt jtpt R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_R3_20_eta_20_cent5;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_mcclosure_Trans_matrix_HLT_R3_20_eta_20_cent5;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_5TrigIneff_Smear_R3_20_eta_20_cent5;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 140 - 180 cent
+  KEY: TH2F	hpbpb_mcclosure_matrix_HLT_10TrigIneff_Smear_R3_20_eta_20_cent5;1	Matrix for mcclosure refpt jtpt from Jet triggers R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_data_R3_20_eta_20_cent5;1	data for unfolding mc closure test R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_data_train_R3_20_eta_20_cent5;1	data_train for unfolding mc closure test R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_R3_20_eta_20_cent5;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_5TrigIneff_Smear_R3_20_eta_20_cent5;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_10TrigIneff_Smear_R3_20_eta_20_cent5;1	data for unfolding mc closure test trigger combined  R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet80_data_R3_20_eta_20_cent5;1	data for unfolding mc closure test trigger 80  R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet65_data_R3_20_eta_20_cent5;1	data for unfolding mc closure test trigger 65  R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_R3_20_eta_20_cent5;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_5TrigIneff_Smear_R3_20_eta_20_cent5;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_10TrigIneff_Smear_R3_20_eta_20_cent5;1	data for unfolding mc closure test trigger 55  R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_JetComb_data_train_R3_20_eta_20_cent5;1	data_train for unfolding mc closure test trigger combined  R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet80_data_train_R3_20_eta_20_cent5;1	data_train for unfolding mc closure test trigger 80  R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet65_data_train_R3_20_eta_20_cent5;1	data_train for unfolding mc closure test trigger 65  R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_Jet55_data_train_R3_20_eta_20_cent5;1	data_train for unfolding mc closure test trigger 55  R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_R3_20_eta_20_cent5;1	gen spectra for unfolding mc closure test R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_R3_20_eta_20_cent5;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_5TrigIneff_Smear_R3_20_eta_20_cent5;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_JetComb_10TrigIneff_Smear_R3_20_eta_20_cent5;1	gen spectra for unfolding mc closure test trigger combined R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet80_R3_20_eta_20_cent5;1	gen spectra for unfolding mc closure test trigger 80 R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet65_R3_20_eta_20_cent5;1	gen spectra for unfolding mc closure test trigger 65 R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_R3_20_eta_20_cent5;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_5TrigIneff_Smear_R3_20_eta_20_cent5;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 140 - 180 cent
+  KEY: TH1F	hpbpb_mcclosure_gen_Jet55_10TrigIneff_Smear[_R3_20_eta_20_cent5;1	gen spectra for unfolding mc closure test trigger 55 R3 20_eta_20 140 - 180 cent

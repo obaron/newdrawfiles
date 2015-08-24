@@ -1,0 +1,100 @@
+000 (427988.000.000) 06/23 09:59:05 Job submitted from host: <18.12.1.74:48322>
+...
+001 (427988.000.000) 06/23 09:59:20 Job executing on host: <18.12.8.211:42920>
+...
+006 (427988.000.000) 06/23 09:59:29 Image size of job updated: 500944
+	309  -  MemoryUsage of job (MB)
+	315496  -  ResidentSetSize of job (KB)
+...
+006 (427988.000.000) 06/23 10:04:29 Image size of job updated: 503992
+	360  -  MemoryUsage of job (MB)
+	368224  -  ResidentSetSize of job (KB)
+...
+005 (427988.000.000) 06/23 10:04:37 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:04:12, Sys 0 00:00:02  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:04:12, Sys 0 00:00:02  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	179185  -  Run Bytes Sent By Job
+	43520  -  Run Bytes Received By Job
+	179185  -  Total Bytes Sent By Job
+	43520  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :      243      243          
+	   Memory (MB)          :      360      360          
+...
+000 (558880.000.000) 08/14 10:48:09 Job submitted from host: <18.12.1.74:48322>
+...
+001 (558880.000.000) 08/14 12:09:17 Job executing on host: <18.12.9.58:41971>
+...
+006 (558880.000.000) 08/14 12:09:27 Image size of job updated: 93600
+	3  -  MemoryUsage of job (MB)
+	2428  -  ResidentSetSize of job (KB)
+...
+006 (558880.000.000) 08/14 12:14:27 Image size of job updated: 840852
+	688  -  MemoryUsage of job (MB)
+	704312  -  ResidentSetSize of job (KB)
+...
+006 (558880.000.000) 08/14 12:19:28 Image size of job updated: 907952
+	707  -  MemoryUsage of job (MB)
+	723560  -  ResidentSetSize of job (KB)
+...
+006 (558880.000.000) 08/14 12:24:11 Image size of job updated: 911116
+	707  -  MemoryUsage of job (MB)
+	723560  -  ResidentSetSize of job (KB)
+...
+004 (558880.000.000) 08/14 12:24:12 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:00:02, Sys 0 00:00:03  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	18615868  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :    38630    38630          
+	   Memory (MB)          :      707      707          
+...
+009 (558880.000.000) 08/14 12:24:12 Job was aborted by the user.
+	via condor_rm (by user obaron)
+...
+000 (559133.000.000) 08/14 12:37:46 Job submitted from host: <18.12.1.74:48322>
+...
+001 (559133.000.000) 08/14 13:15:31 Job executing on host: <18.12.9.80:43650>
+...
+006 (559133.000.000) 08/14 13:15:40 Image size of job updated: 840856
+	685  -  MemoryUsage of job (MB)
+	701044  -  ResidentSetSize of job (KB)
+...
+006 (559133.000.000) 08/14 13:20:41 Image size of job updated: 911252
+	712  -  MemoryUsage of job (MB)
+	728324  -  ResidentSetSize of job (KB)
+...
+006 (559133.000.000) 08/14 13:30:41 Image size of job updated: 913632
+	757  -  MemoryUsage of job (MB)
+	774912  -  ResidentSetSize of job (KB)
+...
+006 (559133.000.000) 08/14 13:35:42 Image size of job updated: 913868
+	757  -  MemoryUsage of job (MB)
+	774912  -  ResidentSetSize of job (KB)
+...
+006 (559133.000.000) 08/14 13:45:43 Image size of job updated: 914348
+	757  -  MemoryUsage of job (MB)
+	774912  -  ResidentSetSize of job (KB)
+...
+005 (559133.000.000) 08/14 13:55:31 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:05:55, Sys 0 00:00:09  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:05:55, Sys 0 00:00:09  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	20916092  -  Run Bytes Sent By Job
+	18615868  -  Run Bytes Received By Job
+	20916092  -  Total Bytes Sent By Job
+	18615868  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :    38631    38631          
+	   Memory (MB)          :      757      757          
+...
