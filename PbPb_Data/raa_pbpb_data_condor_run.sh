@@ -35,7 +35,7 @@ root -b -l <<EOF
 EOF
 
 ls -alrth
-mv $outfile /mnt/hadoop/cms/store/user/obaron/JetRAA/June26/
+mv $outfile /mnt/hadoop/cms/store/user/obaron/JetRAA/June26/30GeVcut/
 #mv $outtextfile1 /mnt/hadoop/cms/store/user/rkunnawa/rootfiles/JetRAA/June29/
 #mv $outtextfile2 /mnt/hadoop/cms/store/user/rkunnawa/rootfiles/JetRAA/June29/
 #.x RAA_read_data_pbpb.C+($startfile,$endfile,$radius,"$outfile","$outtextfile1","$outtextfile2")

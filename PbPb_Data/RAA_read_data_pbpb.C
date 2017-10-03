@@ -152,7 +152,7 @@ using namespace std;
 
 void RAA_read_data_pbpb(int startfile = 0,
 			int endfile = 1,
-			int radius = 3,
+			int radius = 4,
 			std::string kFoname="test_output.root",
 			std::string kFonametxt1 = "test1.txt",
 			std::string kFonametxt2 = "test2.txt"){
@@ -188,7 +188,7 @@ void RAA_read_data_pbpb(int startfile = 0,
   }
 
   const int N = 5; //6
-  float pfptmin=50;
+  float pfptmin=30;
 
   TChain * jetpbpb[N];
   TChain * evt_select, * jet_select; 
@@ -765,7 +765,6 @@ TH2F *hpbpb_Jet80_phieta_cent[nbins_cent],
 	hpbpb_Jet65_eta_precut_cent[i] = new TH1F(Form("hpbpb_Jet65_etaprecut_cent_R%d_cent%d",radius,i),Form("Eta precut distribution from Jet65 && !Jet80 trigger R%d %2.0f - %2.0f cent",radius,5*boundaries_cent[i],5*boundaries_cent[i+1]),30,-2.5,2.5);
 	hpbpb_Jet55_eta_precut_cent[i] = new TH1F(Form("hpbpb_Jet55_etaprecut_cent_R%d_cent%d",radius,i),Form("Eta precut distribution from Jet55 && !Jet65 && !Jet80 trigger R%d %2.0f - %2.0f cent",radius,5*boundaries_cent[i],5*boundaries_cent[i+1]),30,-2.5,2.5);
 	hpbpb_Jet80_phi_precut_cent[i] = new TH1F(Form("hpbpb_Jet80_phiprecut_cent_R%d_cent%d",radius,i),Form("Phi precut distribution from Jet80 trigger R%d %2.0f - %2.0f cent",radius,5*boundaries_cent[i],5*boundaries_cent[i+1]),30,-pi,pi);
-	hpbpb_Jet80_phi_precut_cent[i] = new TH1F(Form("hpbpb_Jet80_phiprecut_cent_R%d_cent%d",radius,i),Form("Phi precut distribution from Jet80 trigger R%d %2.0f - %2.0f cent",radius,5*boundaries_cent[i],5*boundaries_cent[i+1]),30,-pi,pi);
 	hpbpb_Jet65_phi_precut_cent[i] = new TH1F(Form("hpbpb_Jet65_phiprecut_cent_R%d_cent%d",radius,i),Form("Phi precut distribution from Jet65 && !Jet80 trigger R%d %2.0f - %2.0f cent",radius,5*boundaries_cent[i],5*boundaries_cent[i+1]),30,-pi,pi);
 	hpbpb_Jet55_phi_precut_cent[i] = new TH1F(Form("hpbpb_Jet55_phiprecut_cent_R%d_cent%d",radius,i),Form("Phi precut distribution from Jet55 && !Jet65 && !Jet80 trigger R%d %2.0f - %2.0f cent",radius,5*boundaries_cent[i],5*boundaries_cent[i+1]),30,-pi,pi);
 	
@@ -835,8 +834,6 @@ TH2F *hpbpb_Jet80_phieta_cent[nbins_cent],
       if(eta_F[g]>=-2 && eta_F[g]<2){ //to select inside 
 	
 	if(pt_F[g]>=50) jetCounter++;
-	
-	if(pt_F[g]<=pfptmin)  continue;
 	
       }//eta selection cut
       
@@ -1312,8 +1309,11 @@ TH2F *hpbpb_Jet80_phieta_cent[nbins_cent],
 	  float eta = eta_F[jet];
 	  float phi = phi_F[jet];
       
+	  if(recpt<=pfptmin)  continue; //pT Cut
+	  
       if(jet55_F == 1 && jet65_F == 0 && jet80_F == 0){
 	//if(recpt > 140) continue;
+	
 	hpbpb_TrgObj55[cBin]->Fill(recpt, jet55_p_F* wght);
 	hpbpb_raw_TrgObj55[cBin]->Fill(rawpt_F[jet], jet55_p_F* wght);
 	hpbpb_anaBin_TrgObj55[cBin]->Fill(recpt, jet55_p_F* wght);

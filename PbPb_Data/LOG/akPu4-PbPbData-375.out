@@ -1,27 +1,25 @@
 
 ----------------------------------------------------
-Job started on Thu Aug 20 12:49:00 EDT 2015 at WN: t2bat0284.cmsaf.mit.edu 
-Job is running on Linux t2bat0284.cmsaf.mit.edu 2.6.32-358.el6.x86_64 #1 SMP Fri Feb 22 20:37:17 CST 2013 x86_64 x86_64 x86_64 GNU/Linux
+Job started on Mon Oct 12 11:30:53 EDT 2015 at WN: hibat0061.cmsaf.mit.edu 
+Job is running on Linux hibat0061.cmsaf.mit.edu 2.6.32-358.el6.x86_64 #1 SMP Fri Feb 22 20:37:17 CST 2013 x86_64 x86_64 x86_64 GNU/Linux
 Filesystem            Size  Used Avail Use% Mounted on
-/dev/sda3              20G  7.6G   12G  41% /
-tmpfs                  32G     0   32G   0% /dev/shm
+/dev/sda3              20G  3.3G   16G  18% /
+tmpfs                  24G     0   24G   0% /dev/shm
 /dev/sda1              97M   32M   61M  35% /boot
-/dev/sda4             416G   48G  369G  12% /export/data1
-fuse_dfs              4.9P  4.6P  328T  94% /mnt/hadoop
-/dev/sdb1             2.7T  2.5T  252G  91% /export/00b
-/dev/sdc1             2.7T  2.5T  235G  92% /export/00c
-/dev/sdd1             2.7T  2.5T  258G  91% /export/00d
-/dev/sde1             2.7T  2.5T  236G  92% /export/00e
-/dev/sdf1             2.7T  2.5T  249G  91% /export/00f
-/dev/sdg1             2.7T  2.5T  262G  91% /export/00g
-/dev/sdh1             2.7T  2.5T  238G  92% /export/00h
-/dev/sdi1             2.7T  2.5T  241G  92% /export/00i
-/dev/sdj1             2.7T  2.5T  244G  92% /export/00j
-/dev/sdk1             2.7T  2.5T  249G  91% /export/00k
-/dev/sdl1             2.7T  2.5T  245G  92% /export/00l
-cvmfs2                 98G   30G   68G  31% /cvmfs/cms.cern.ch
+/dev/sda4             873G   61G  813G   7% /export/data1
+/dev/sdb1             2.7T  2.2T  499G  82% /export/00b
+/dev/sdc1             2.7T  2.2T  504G  82% /export/00c
+/dev/sdd1             2.7T  2.2T  518G  82% /export/00d
+/dev/sde1             2.7T  2.3T  483G  83% /export/00e
+/dev/sdf1             2.7T  2.3T  496G  82% /export/00f
+fuse_dfs              5.0P  4.0P  1.1P  80% /mnt/hadoop
+/dev/sdg1             3.6T  2.7T  916G  76% /export/00g
+/dev/sdh1             3.6T  2.7T  913G  76% /export/00h
+cvmfs2                 98G   59G   40G  60% /cvmfs/cms.cern.ch
 t2srv0004:/export/db  135G  187M  135G   1% /net/t2srv0004/db
-cvmfs2                 98G   30G   68G  31% /cvmfs/cvmfs.cmsaf.mit.edu
+cvmfs2                 98G   59G   40G  60% /cvmfs/oasis.opensciencegrid.org
+cvmfs2                 98G   59G   40G  60% /cvmfs/cdfcfs.fnal.gov
+cvmfs2                 98G   59G   40G  60% /cvmfs/cvmfs.cmsaf.mit.edu
 gcc (GCC) 4.4.7 20120313 (Red Hat 4.4.7-3)
 Copyright (C) 2010 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
@@ -48,25 +46,25 @@ Processing...
 170000/182603
 180000/182603
 Macro finished: 
-CPU time (min)  = 1.66033
-Real time (min) = 6.56024
-total 2.0M
--rw-r--r--  1 obaron obaron 108K Aug 13 15:28 jetRAA_PbPb_data_forest.txt
--rw-r--r--  1 obaron obaron  94K Aug 13 15:28 jetRAA_PbPb_data_akPu4_select.txt
--rw-r--r--  1 obaron obaron  94K Aug 13 15:28 jetRAA_PbPb_data_akPu3_select.txt
--rw-r--r--  1 obaron obaron  94K Aug 13 15:28 jetRAA_PbPb_data_akPu2_select.txt
--rw-r--r--  1 obaron obaron  70K Aug 20 12:29 RAA_read_data_pbpb.C
--rw-r--r--  1 obaron obaron  11K Aug 20 12:30 RAA_read_data_pbpb_C.d
--rwxr-xr-x  1 obaron obaron 101K Aug 20 12:30 RAA_read_data_pbpb_C.so
--rw-r--r--  1 condor condor 5.6K Aug 20 12:48 .machine.ad
--rw-r--r--  1 condor condor  20K Aug 20 12:48 .job.ad
--rwx------  1 obaron obaron   49 Aug 20 12:48 .chirp.config
--rw-rw-r--  1 obaron obaron  61K Aug 20 12:48 jetRAA_run_PbPb_Data.tar
--rwxr-xr-x  1 obaron obaron 1.2K Aug 20 12:48 condor_exec.exe
-drwx------  2 obaron obaron 4.0K Aug 20 12:49 .
--rw-r--r--  1 obaron obaron  678 Aug 20 12:49 _condor_stderr
-drwxr-xr-x 31 condor root   4.0K Aug 20 12:55 ..
--rw-r--r--  1 obaron obaron 2.0K Aug 20 12:55 _condor_stdout
--rw-r--r--  1 obaron obaron 1.3M Aug 20 12:55 PbPb_Data_histograms_FromForest_pileupCutFIX_ZDCmCut_akPu4_20_eta_20_380.root
+CPU time (min)  = 2.0775
+Real time (min) = 2.70898
+total 1.9M
+-rw-r--r--  1 obaron obaron 108K Oct 12 11:01 jetRAA_PbPb_data_forest.txt
+-rw-r--r--  1 obaron obaron  94K Oct 12 11:01 jetRAA_PbPb_data_akPu4_select.txt
+-rw-r--r--  1 obaron obaron  94K Oct 12 11:01 jetRAA_PbPb_data_akPu3_select.txt
+-rw-r--r--  1 obaron obaron  94K Oct 12 11:01 jetRAA_PbPb_data_akPu2_select.txt
+-rw-r--r--  1 obaron obaron  70K Oct 12 11:21 RAA_read_data_pbpb.C
+-rw-r--r--  1 obaron obaron  11K Oct 12 11:21 RAA_read_data_pbpb_C.d
+-rwxr-xr-x  1 obaron obaron 101K Oct 12 11:21 RAA_read_data_pbpb_C.so
+-rw-rw-r--  1 obaron obaron  61K Oct 12 11:30 jetRAA_run_PbPb_Data.tar
+-rwxr-xr-x  1 obaron obaron 1.2K Oct 12 11:30 condor_exec.exe
+drwxr-xr-x 14 condor root   4.0K Oct 12 11:30 ..
+-rw-r--r--  1 condor condor 5.6K Oct 12 11:30 .machine.ad
+-rw-r--r--  1 condor condor  20K Oct 12 11:30 .job.ad
+-rwx------  1 obaron obaron   49 Oct 12 11:30 .chirp.config
+-rw-r--r--  1 obaron obaron    0 Oct 12 11:30 _condor_stderr
+drwx------  2 obaron obaron 4.0K Oct 12 11:30 .
+-rw-r--r--  1 obaron obaron 1.9K Oct 12 11:33 _condor_stdout
+-rw-r--r--  1 obaron obaron 1.3M Oct 12 11:33 PbPb_Data_histograms_FromForest_pileupCutFIX_ZDCmCut_30GeVcut_akPu4_20_eta_20_380.root
 Done!
 Copied output files to hadoop rootfiles/JetRAA/June29

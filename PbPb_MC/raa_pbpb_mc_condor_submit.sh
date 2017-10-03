@@ -28,7 +28,7 @@ do
         let counter=$1
     fi
 
-    outfile="PbPb_MC_histograms_FromForest_akPu${radius}_anabin_20_eta_20_${endfile}.root"
+    outfile="PbPb_MC_histograms_FromForest_30GeVcut_akPu${radius}_anabin_20_eta_20_${endfile}.root"
     
     # Condor submit file
     cat > subfile <<EOF

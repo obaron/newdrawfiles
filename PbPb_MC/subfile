@@ -9,7 +9,7 @@ Environment = "HOSTNAME=hidsk0001.cmsaf.mit.edu"
 Executable     = raa_pbpb_mc_condor_run.sh
 +AccountingGroup = "group_cmshi.obaron"
 #+IsMadgraph = 1
-Arguments      = 8 9 4 PbPb_MC_histograms_FromForest_akPu4_anabin_20_eta_20_9.root
+Arguments      = 8 9 4 PbPb_MC_histograms_FromForest_30GeVcut_akPu4_anabin_20_eta_20_9.root
 # input files. in this case, there are none.
 Input          = /dev/null
 # log files

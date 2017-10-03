@@ -202,7 +202,7 @@ void RAA_read_mc_pbpb(int startfile = 0,
     instr_Select>>filename_Select;
   }
   
-  float pfptmin=50;
+  float pfptmin=30;
   const int N = 5; //6
 
   TChain * jetpbpb[N];

@@ -50,6 +50,8 @@ TCanvas *EtaPrecutCan55[nbins_cent];
 TCanvas *EtaPrecutCan65[nbins_cent];
 TCanvas *EtaPrecutCan80[nbins_cent];
 TCanvas *EtaRatCan[nbins_cent];
+TCanvas *pTCan[nbins_cent];
+
 
 TH1F *hEta80[nbins_cent];
 TH1F *hPhi80[nbins_cent];
@@ -75,7 +77,7 @@ TH1F *EtaRatio80[nbins_cent];
 TH1F *EtaRatio65[nbins_cent];
 TH1F *EtaRatio55[nbins_cent];
 
-
+TH1F *simplepT[nbins_cent];
 
 for(int i=0;i<nbins_cent;i++){
 //reduce margins if possible

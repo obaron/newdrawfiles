@@ -9,14 +9,14 @@ Environment = "HOSTNAME=hidsk0001.cmsaf.mit.edu"
 Executable     = raa_pbpb_data_condor_run.sh
 +AccountingGroup = "group_cmshi.obaron"
 #+IsMadgraph = 1
-#Arguments      = 900 902 2 PbPb_Data_histograms_FromForest_pileupCutFIX_ZDCmCut_akPu2_20_eta_20_902.root  
-Arguments      = 900 902 2 PbPb_Data_histograms_FromForest_pileupCutFIX_ZDCmCut_akPu2_20_eta_20_902.root 
+#Arguments      = 900 902 4 PbPb_Data_histograms_FromForest_pileupCutFIX_ZDCmCut_30GeVcut_akPu4_20_eta_20_902.root  
+Arguments      = 900 902 4 PbPb_Data_histograms_FromForest_pileupCutFIX_ZDCmCut_30GeVcut_akPu4_20_eta_20_902.root 
 # input files. in this case, there are none.
 Input          = /dev/null
 # log files
-Error          = LOG/akPu2-PbPbData-900.err
-Output         = LOG/akPu2-PbPbData-900.out
-Log            = LOG/akPu2-PbPbData-900.log
+Error          = LOG/akPu4-PbPbData-900.err
+Output         = LOG/akPu4-PbPbData-900.out
+Log            = LOG/akPu4-PbPbData-900.log
 # get the environment (path, etc.)
 Getenv         = True
 # prefer to run on fast computers

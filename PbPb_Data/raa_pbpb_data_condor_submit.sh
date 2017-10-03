@@ -10,7 +10,7 @@ filelist=jetRAA_PbPb_data_forest.txt
 
 nFiles=`wc -l < $filelist`
 tardir=`pwd`
-radius=2
+radius=4
 
 echo "nFiles in list: $nFiles"
 while [ $counter -lt $1 ]
@@ -28,7 +28,7 @@ do
         let counter=$1
     fi
 
-    outfile="PbPb_Data_histograms_FromForest_pileupCutFIX_ZDCmCut_akPu${radius}_20_eta_20_${endfile}.root"
+    outfile="PbPb_Data_histograms_FromForest_pileupCutFIX_ZDCmCut_30GeVcut_akPu${radius}_20_eta_20_${endfile}.root"
     #outtextfile1="PbPb_Data_histograms_FromForest_possiblePileUp_aug5_${endfile}.txt"
     #outtextfile2="PbPb_Data_histograms_FromForest_forsurePileUp_aug5_${endfile}.txt"
     

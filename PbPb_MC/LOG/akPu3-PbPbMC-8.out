@@ -1,21 +1,23 @@
 
 ----------------------------------------------------
-Job started on Thu Aug 13 17:08:44 EDT 2015 at WN: t2bat0319.cmsaf.mit.edu 
-Job is running on Linux t2bat0319.cmsaf.mit.edu 2.6.32-358.el6.x86_64 #1 SMP Fri Feb 22 20:37:17 CST 2013 x86_64 x86_64 x86_64 GNU/Linux
+Job started on Mon Oct 12 17:08:32 EDT 2015 at WN: t2bat0314.cmsaf.mit.edu 
+Job is running on Linux t2bat0314.cmsaf.mit.edu 2.6.32-358.el6.x86_64 #1 SMP Fri Feb 22 20:37:17 CST 2013 x86_64 x86_64 x86_64 GNU/Linux
 Filesystem            Size  Used Avail Use% Mounted on
-/dev/sda3              20G  3.6G   16G  20% /
+/dev/sda3              20G  2.6G   17G  14% /
 tmpfs                  32G     0   32G   0% /dev/shm
 /dev/sda1              97M   32M   61M  35% /boot
-/dev/sda4             416G   83G  333G  20% /export/data1
-fuse_dfs              4.9P  4.5P  441T  92% /mnt/hadoop
-/dev/sdb1             3.6T  3.4T  237G  94% /export/00b
-/dev/sdc1             3.6T  3.4T  222G  94% /export/00c
-/dev/sdd1             3.6T  3.3T  319G  92% /export/00d
-/dev/sde1             3.6T  3.4T  288G  93% /export/00e
-/dev/sdf1             3.6T  3.3T  307G  92% /export/00f
-/dev/sdg1             3.6T  3.3T  319G  92% /export/00g
-cvmfs2                 98G   70G   28G  72% /cvmfs/cms.cern.ch
+/dev/sda4             416G   46G  370G  11% /export/data1
+fuse_dfs              5.0P  4.0P  1.1P  80% /mnt/hadoop
+/dev/sdb1             3.6T  3.1T  498G  87% /export/00b
+/dev/sdc1             3.6T  3.1T  538G  86% /export/00c
+/dev/sdd1             3.6T  3.1T  553G  85% /export/00d
+/dev/sde1             3.6T  3.1T  548G  86% /export/00e
+/dev/sdf1             3.6T  3.1T  559G  85% /export/00f
+/dev/sdg1             3.6T  3.1T  540G  86% /export/00g
+/dev/sdh1             3.6T  1.7T  2.0T  46% /export/00h
+cvmfs2                 98G   42G   57G  43% /cvmfs/cms.cern.ch
 t2srv0004:/export/db  135G  187M  135G   1% /net/t2srv0004/db
+cvmfs2                 98G   42G   57G  43% /cvmfs/cvmfs.cmsaf.mit.edu
 gcc (GCC) 4.4.7 20120313 (Red Hat 4.4.7-3)
 Copyright (C) 2010 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
@@ -28,7 +30,7 @@ Loading HiForest events...
 0/14031
 10000/14031
 Macro finished: 
-CPU time (min)  = 0.236333
-Real time (min) = 0.513497
+CPU time (min)  = 0.255167
+Real time (min) = 0.386789
 Done!
 Copied output files to hadoop JetRAA/June26

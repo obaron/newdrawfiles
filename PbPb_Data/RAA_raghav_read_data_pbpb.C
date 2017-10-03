@@ -787,7 +787,7 @@ void RAA_raghav_read_data_pbpb(int startfile = 0,
       
       if(eta_F[g]>=-2 && eta_F[g]<2){ //to select inside 
 	
-	if(pt_F[g]>=50) jetCounter++;
+	if(pt_F[g]>=50) jetCounter++; //PT CUT
 	
       }//eta selection cut
       
